@@ -1,0 +1,3896 @@
+{
+  "accounts": [
+    {
+      "id": "ff5f2424-0a46-444d-925c-d5bfb248e6f0",
+      "debtor": {
+        "title": "Ms.",
+        "firstName": "Oliver",
+        "lastName": "Mcmahon",
+        "address": {
+          "address": "396 Johnson Avenue, Rowe, Virgin Islands, 4670",
+          "city": "Century",
+          "state": "Missouri",
+          "zip": 73208,
+          "country": "Liechtenstein"
+        },
+        "mobilePhone": "+1 (956) 531-2032",
+        "email": "mcmahon.oliver@sureplex.name"
+      }
+    },
+    {
+      "id": "45887367-1882-46fd-a5f0-8a60d60def18",
+      "debtor": {
+        "title": "Mr",
+        "firstName": "Naomi",
+        "lastName": "Cooper",
+        "address": {
+          "address": "962 Highland Place, Coyote, North Dakota, 6633",
+          "city": "Wyano",
+          "state": "Alabama",
+          "zip": 31657,
+          "country": "Liberia"
+        },
+        "mobilePhone": "+1 (883) 600-2980",
+        "email": "cooper.naomi@assistix.me"
+      }
+    },
+    {
+      "id": "31acce96-4fc4-4da7-9345-5f3ba5fb00b8",
+      "debtor": {
+        "title": "Dr.",
+        "firstName": "Koch",
+        "lastName": "Guy",
+        "address": {
+          "address": "629 Engert Avenue, Wanamie, California, 3137",
+          "city": "Fannett",
+          "state": "Vermont",
+          "zip": 70087,
+          "country": "Hungary"
+        },
+        "mobilePhone": "+1 (819) 553-2945",
+        "email": "guy.koch@housedown.biz"
+      }
+    },
+    {
+      "id": "094c24e3-39a7-4c95-9a6f-d3c27741534f",
+      "debtor": {
+        "title": null,
+        "firstName": "Kerry",
+        "lastName": "Reid",
+        "address": {
+          "address": "861 Goodwin Place, Tetherow, Colorado, 2140",
+          "city": "Caledonia",
+          "state": "Kentucky",
+          "zip": 49267,
+          "country": "Iceland"
+        },
+        "mobilePhone": "+1 (923) 510-3695",
+        "email": "reid.kerry@telepark.biz"
+      }
+    },
+    {
+      "id": "a436610e-0c46-4594-b3b9-b95198a4ba59",
+      "debtor": {
+        "title": "Dr.",
+        "firstName": "Pope",
+        "lastName": "Hines",
+        "address": {
+          "address": "609 Noel Avenue, Dellview, Illinois, 7645",
+          "city": "Roy",
+          "state": "West Virginia",
+          "zip": 13035,
+          "country": "Reunion"
+        },
+        "mobilePhone": "+1 (825) 538-2758",
+        "email": "hines.pope@savvy.org"
+      }
+    },
+    {
+      "id": "80fd68a3-951d-4397-8e28-a700a5fa8dbd",
+      "debtor": {
+        "title": "Ms.",
+        "firstName": "Emily",
+        "lastName": "Estes",
+        "address": {
+          "address": "563 Thames Street, Vowinckel, American Samoa, 8388",
+          "city": "Tooleville",
+          "state": "Nebraska",
+          "zip": 63762,
+          "country": "Korea (North)"
+        },
+        "mobilePhone": "+1 (912) 589-3043",
+        "email": "estes.emily@accupharm.io"
+      }
+    },
+    {
+      "id": "075a5df3-3f2d-414d-a052-af1812c47664",
+      "debtor": {
+        "title": "Dr.",
+        "firstName": "Casey",
+        "lastName": "Terry",
+        "address": {
+          "address": "809 Neptune Court, Bradenville, Arkansas, 154",
+          "city": "Nicut",
+          "state": "Iowa",
+          "zip": 25271,
+          "country": "Cocos (Keeling Islands)"
+        },
+        "mobilePhone": "+1 (987) 553-2355",
+        "email": "terry.casey@fanfare.co.uk"
+      }
+    },
+    {
+      "id": "ab8e9012-28eb-491c-98a6-8bfe5ee6bfa8",
+      "debtor": {
+        "title": null,
+        "firstName": "Mcfarland",
+        "lastName": "Burke",
+        "address": {
+          "address": "479 Manhattan Court, Columbus, Montana, 3501",
+          "city": "Winfred",
+          "state": "Texas",
+          "zip": 77112,
+          "country": "Philippines"
+        },
+        "mobilePhone": "+1 (965) 516-2330",
+        "email": "burke.mcfarland@gink.ca"
+      }
+    },
+    {
+      "id": "f0c53d24-b4f7-47e0-818c-5dd1b08bffdd",
+      "debtor": {
+        "title": "Ms.",
+        "firstName": "Fitzpatrick",
+        "lastName": "Townsend",
+        "address": {
+          "address": "845 Schroeders Avenue, Choctaw, Arizona, 8115",
+          "city": "Felt",
+          "state": "Federated States Of Micronesia",
+          "zip": 92718,
+          "country": "Guam"
+        },
+        "mobilePhone": "+1 (809) 401-3127",
+        "email": "townsend.fitzpatrick@danja.com"
+      }
+    },
+    {
+      "id": "813818ef-a278-49a8-bac3-6d4787e7eec1",
+      "debtor": {
+        "title": "Ms.",
+        "firstName": "Palmer",
+        "lastName": "Ellison",
+        "address": {
+          "address": "698 Oceanview Avenue, Gloucester, District Of Columbia, 9208",
+          "city": "Wescosville",
+          "state": "Idaho",
+          "zip": 38824,
+          "country": "Viet Nam"
+        },
+        "mobilePhone": "+1 (944) 549-2721",
+        "email": "ellison.palmer@norsul.info"
+      }
+    },
+    {
+      "id": "7f09bb76-b64c-4805-8583-27098a9a4760",
+      "debtor": {
+        "title": null,
+        "firstName": "Dotson",
+        "lastName": "Glover",
+        "address": {
+          "address": "666 Dorset Street, Como, Minnesota, 4569",
+          "city": "Hampstead",
+          "state": "Kansas",
+          "zip": 36725,
+          "country": "Virgin Islands (US)"
+        },
+        "mobilePhone": "+1 (807) 486-3943",
+        "email": "glover.dotson@emoltra.tv"
+      }
+    },
+    {
+      "id": "0a870e1e-daf4-4c9b-9c32-2d2361c5e84c",
+      "debtor": {
+        "title": "Ms.",
+        "firstName": "Riddle",
+        "lastName": "Kemp",
+        "address": {
+          "address": "267 Prospect Avenue, Barronett, Nevada, 7601",
+          "city": "Taycheedah",
+          "state": "New York",
+          "zip": 75070,
+          "country": "Barbados"
+        },
+        "mobilePhone": "+1 (867) 423-2622",
+        "email": "kemp.riddle@zilencio.net"
+      }
+    },
+    {
+      "id": "2250741c-23c9-4b92-9fc0-858df9ebff31",
+      "debtor": {
+        "title": null,
+        "firstName": "Estelle",
+        "lastName": "Nielsen",
+        "address": {
+          "address": "705 Wyckoff Avenue, Templeton, Michigan, 1222",
+          "city": "Virgie",
+          "state": "Mississippi",
+          "zip": 89816,
+          "country": "Australia"
+        },
+        "mobilePhone": "+1 (994) 556-2364",
+        "email": "nielsen.estelle@netility.name"
+      }
+    },
+    {
+      "id": "46b51ddd-b31c-49b5-9a09-07616b0c2161",
+      "debtor": {
+        "title": "Mr",
+        "firstName": "Allyson",
+        "lastName": "Watkins",
+        "address": {
+          "address": "613 Albany Avenue, Welch, Virginia, 1422",
+          "city": "Trucksville",
+          "state": "Palau",
+          "zip": 18477,
+          "country": "Greece"
+        },
+        "mobilePhone": "+1 (815) 517-3374",
+        "email": "watkins.allyson@rockabye.me"
+      }
+    },
+    {
+      "id": "64c9a289-badb-41a1-bb08-cfe9152f89b0",
+      "debtor": {
+        "title": null,
+        "firstName": "Galloway",
+        "lastName": "Miller",
+        "address": {
+          "address": "967 Diamond Street, Oneida, Hawaii, 1635",
+          "city": "Dalton",
+          "state": "North Carolina",
+          "zip": 58554,
+          "country": "Japan"
+        },
+        "mobilePhone": "+1 (944) 589-3703",
+        "email": "miller.galloway@medmex.biz"
+      }
+    },
+    {
+      "id": "b198724e-4781-45a9-9427-b4c908e4e0e5",
+      "debtor": {
+        "title": null,
+        "firstName": "Bender",
+        "lastName": "Parker",
+        "address": {
+          "address": "403 Howard Place, Alleghenyville, Louisiana, 4938",
+          "city": "Brule",
+          "state": "Maryland",
+          "zip": 78452,
+          "country": "Mexico"
+        },
+        "mobilePhone": "+1 (978) 579-2864",
+        "email": "parker.bender@emtrak.biz"
+      }
+    },
+    {
+      "id": "ce4a326b-59c2-4830-b40e-43c136fd1346",
+      "debtor": {
+        "title": "Dr.",
+        "firstName": "Kristina",
+        "lastName": "Lee",
+        "address": {
+          "address": "810 Wythe Place, Ogema, Puerto Rico, 2993",
+          "city": "Groton",
+          "state": "Washington",
+          "zip": 95448,
+          "country": "Ethiopia"
+        },
+        "mobilePhone": "+1 (902) 541-2728",
+        "email": "lee.kristina@assurity.org"
+      }
+    },
+    {
+      "id": "f847dafe-ef85-4e20-b7e9-d3b2790bba48",
+      "debtor": {
+        "title": null,
+        "firstName": "Diane",
+        "lastName": "Bryan",
+        "address": {
+          "address": "602 Frank Court, Calpine, New Jersey, 5235",
+          "city": "Layhill",
+          "state": "Alaska",
+          "zip": 64645,
+          "country": "Pakistan"
+        },
+        "mobilePhone": "+1 (934) 536-2759",
+        "email": "bryan.diane@golistic.io"
+      }
+    },
+    {
+      "id": "e448c46c-5bfe-4f99-a63d-11cca80bed59",
+      "debtor": {
+        "title": "Ms.",
+        "firstName": "Richardson",
+        "lastName": "Morales",
+        "address": {
+          "address": "509 Crown Street, Islandia, Wisconsin, 5653",
+          "city": "Caspar",
+          "state": "Northern Mariana Islands",
+          "zip": 42326,
+          "country": "Faroe Islands"
+        },
+        "mobilePhone": "+1 (921) 417-2389",
+        "email": "morales.richardson@opticall.co.uk"
+      }
+    },
+    {
+      "id": "6ca547b9-b1f3-4226-97b8-f596a0c34789",
+      "debtor": {
+        "title": null,
+        "firstName": "Jennings",
+        "lastName": "Salas",
+        "address": {
+          "address": "359 Flatbush Avenue, Brookfield, Wyoming, 9980",
+          "city": "Wauhillau",
+          "state": "Connecticut",
+          "zip": 25442,
+          "country": "Tokelau"
+        },
+        "mobilePhone": "+1 (816) 598-3880",
+        "email": "salas.jennings@opticon.ca"
+      }
+    },
+    {
+      "id": "1641f467-bcd3-456c-a8b6-982d8f87998b",
+      "debtor": {
+        "title": "Dr.",
+        "firstName": "Chase",
+        "lastName": "Crane",
+        "address": {
+          "address": "105 Euclid Avenue, Urie, South Carolina, 3703",
+          "city": "Bynum",
+          "state": "South Dakota",
+          "zip": 41387,
+          "country": "Central African Republic"
+        },
+        "mobilePhone": "+1 (858) 594-2378",
+        "email": "crane.chase@amril.com"
+      }
+    },
+    {
+      "id": "b8b93d9f-0626-48f9-9297-8f7aed9c2da0",
+      "debtor": {
+        "title": "Mr",
+        "firstName": "Tammy",
+        "lastName": "Jefferson",
+        "address": {
+          "address": "323 Bragg Court, Brandywine, Tennessee, 8389",
+          "city": "Springville",
+          "state": "Massachusetts",
+          "zip": 27920,
+          "country": "Mauritius"
+        },
+        "mobilePhone": "+1 (994) 600-2691",
+        "email": "jefferson.tammy@exovent.info"
+      }
+    },
+    {
+      "id": "b4efc84f-b7ad-4a59-a952-5ba3c4714486",
+      "debtor": {
+        "title": null,
+        "firstName": "Morgan",
+        "lastName": "Barrera",
+        "address": {
+          "address": "632 Liberty Avenue, Klondike, Oklahoma, 4883",
+          "city": "Brenton",
+          "state": "Rhode Island",
+          "zip": 26863,
+          "country": "Taiwan"
+        },
+        "mobilePhone": "+1 (924) 493-3092",
+        "email": "barrera.morgan@squish.tv"
+      }
+    },
+    {
+      "id": "5e13fa94-1f49-46eb-a6f1-bdf61a78545b",
+      "debtor": {
+        "title": "Dr.",
+        "firstName": "Cleveland",
+        "lastName": "Padilla",
+        "address": {
+          "address": "896 Emerald Street, Woodlake, Delaware, 4502",
+          "city": "Slovan",
+          "state": "Maine",
+          "zip": 52924,
+          "country": "Cambodia"
+        },
+        "mobilePhone": "+1 (944) 599-2757",
+        "email": "padilla.cleveland@quarmony.net"
+      }
+    },
+    {
+      "id": "76e7eaa4-7887-4412-8435-37f787406c96",
+      "debtor": {
+        "title": "Dr.",
+        "firstName": "Luz",
+        "lastName": "Leonard",
+        "address": {
+          "address": "165 Schenck Avenue, Austinburg, New Hampshire, 1107",
+          "city": "Wawona",
+          "state": "Georgia",
+          "zip": 99263,
+          "country": "Ecuador"
+        },
+        "mobilePhone": "+1 (894) 452-3083",
+        "email": "leonard.luz@euron.name"
+      }
+    },
+    {
+      "id": "f176a603-a1ed-4348-a86a-650adad3da60",
+      "debtor": {
+        "title": null,
+        "firstName": "Fox",
+        "lastName": "Ferrell",
+        "address": {
+          "address": "959 Pine Street, Manitou, Utah, 9187",
+          "city": "Heil",
+          "state": "New Mexico",
+          "zip": 84367,
+          "country": "Zaire"
+        },
+        "mobilePhone": "+1 (988) 410-2868",
+        "email": "ferrell.fox@cinaster.me"
+      }
+    },
+    {
+      "id": "8d176c1d-681b-405d-b7ac-2a36a3d7d705",
+      "debtor": {
+        "title": "Ms.",
+        "firstName": "Wallace",
+        "lastName": "Parrish",
+        "address": {
+          "address": "545 Verona Place, Freelandville, Oregon, 7887",
+          "city": "Blodgett",
+          "state": "Guam",
+          "zip": 91861,
+          "country": "Guinea-Bissau"
+        },
+        "mobilePhone": "+1 (954) 460-3778",
+        "email": "parrish.wallace@irack.biz"
+      }
+    },
+    {
+      "id": "013a74c4-00a3-4f5b-b71f-d55442633b42",
+      "debtor": {
+        "title": null,
+        "firstName": "Florine",
+        "lastName": "Jordan",
+        "address": {
+          "address": "511 Clarendon Road, Joes, Pennsylvania, 1997",
+          "city": "Hoagland",
+          "state": "Florida",
+          "zip": 72804,
+          "country": "St. Helena"
+        },
+        "mobilePhone": "+1 (919) 516-3592",
+        "email": "jordan.florine@phuel.biz"
+      }
+    },
+    {
+      "id": "ca399581-f13f-497e-9d76-8a9a4261b7b1",
+      "debtor": {
+        "title": "Mr",
+        "firstName": "Carey",
+        "lastName": "Hebert",
+        "address": {
+          "address": "355 Kent Avenue, Fairforest, Marshall Islands, 5321",
+          "city": "Twilight",
+          "state": "Indiana",
+          "zip": 30456,
+          "country": "Bhutan"
+        },
+        "mobilePhone": "+1 (980) 506-2244",
+        "email": "hebert.carey@volax.org"
+      }
+    },
+    {
+      "id": "9dce02d3-be5a-49a8-a740-c6d9a9560372",
+      "debtor": {
+        "title": "Dr.",
+        "firstName": "Baird",
+        "lastName": "Spencer",
+        "address": {
+          "address": "120 Llama Court, Motley, Virgin Islands, 1685",
+          "city": "Knowlton",
+          "state": "Missouri",
+          "zip": 20627,
+          "country": "France, Metropolitan"
+        },
+        "mobilePhone": "+1 (888) 462-3523",
+        "email": "spencer.baird@homelux.io"
+      }
+    },
+    {
+      "id": "01fcbb8d-5442-4e42-b34b-05f6aca9d0cd",
+      "debtor": {
+        "title": null,
+        "firstName": "Angeline",
+        "lastName": "Wilkerson",
+        "address": {
+          "address": "359 Hull Street, Valle, North Dakota, 2257",
+          "city": "Cressey",
+          "state": "Alabama",
+          "zip": 33721,
+          "country": "Cape Verde"
+        },
+        "mobilePhone": "+1 (938) 462-3698",
+        "email": "wilkerson.angeline@firewax.co.uk"
+      }
+    },
+    {
+      "id": "df4523d8-d8c8-4336-b555-fb8017808efb",
+      "debtor": {
+        "title": null,
+        "firstName": "Tamera",
+        "lastName": "Olson",
+        "address": {
+          "address": "643 Nautilus Avenue, Wakulla, California, 6648",
+          "city": "Glenville",
+          "state": "Vermont",
+          "zip": 60822,
+          "country": "San Marino"
+        },
+        "mobilePhone": "+1 (842) 475-2659",
+        "email": "olson.tamera@kongle.ca"
+      }
+    },
+    {
+      "id": "47b8e32c-e8e8-4b7e-b3d4-895b6ab1b53d",
+      "debtor": {
+        "title": "Dr.",
+        "firstName": "Pamela",
+        "lastName": "Maynard",
+        "address": {
+          "address": "947 Ovington Avenue, Hendersonville, Colorado, 9256",
+          "city": "Winston",
+          "state": "Kentucky",
+          "zip": 69635,
+          "country": "Kiribati"
+        },
+        "mobilePhone": "+1 (811) 448-2627",
+        "email": "maynard.pamela@techmania.com"
+      }
+    },
+    {
+      "id": "7d39ea37-9df0-442e-827f-6a14b0f36480",
+      "debtor": {
+        "title": "Dr.",
+        "firstName": "Osborne",
+        "lastName": "Snow",
+        "address": {
+          "address": "825 Kimball Street, Iola, Illinois, 5580",
+          "city": "Clinton",
+          "state": "West Virginia",
+          "zip": 50300,
+          "country": "Georgia"
+        },
+        "mobilePhone": "+1 (822) 545-3148",
+        "email": "snow.osborne@mediot.info"
+      }
+    },
+    {
+      "id": "2268ca26-0640-40f8-acb0-b19a8f744c8d",
+      "debtor": {
+        "title": null,
+        "firstName": "Brandi",
+        "lastName": "Freeman",
+        "address": {
+          "address": "795 Milford Street, Gambrills, American Samoa, 9447",
+          "city": "Bordelonville",
+          "state": "Nebraska",
+          "zip": 44780,
+          "country": "Malawi"
+        },
+        "mobilePhone": "+1 (918) 581-3749",
+        "email": "freeman.brandi@accel.tv"
+      }
+    },
+    {
+      "id": "e886a725-5eeb-4e3f-8141-41ccb9e609ce",
+      "debtor": {
+        "title": "Dr.",
+        "firstName": "Gill",
+        "lastName": "Cochran",
+        "address": {
+          "address": "341 Raleigh Place, Carlton, Arkansas, 4607",
+          "city": "Woodburn",
+          "state": "Iowa",
+          "zip": 47700,
+          "country": "Montserrat"
+        },
+        "mobilePhone": "+1 (856) 496-3786",
+        "email": "cochran.gill@vixo.net"
+      }
+    },
+    {
+      "id": "689677af-0844-4043-8cfc-43e2e97bafa2",
+      "debtor": {
+        "title": null,
+        "firstName": "Lawanda",
+        "lastName": "Nunez",
+        "address": {
+          "address": "871 Martense Street, Bawcomville, Montana, 6368",
+          "city": "Fillmore",
+          "state": "Texas",
+          "zip": 94670,
+          "country": "Pitcairn"
+        },
+        "mobilePhone": "+1 (947) 412-2335",
+        "email": "nunez.lawanda@tubesys.name"
+      }
+    },
+    {
+      "id": "87fae503-9164-46cd-b64c-985010d57d4d",
+      "debtor": {
+        "title": "Ms.",
+        "firstName": "Susie",
+        "lastName": "Ward",
+        "address": {
+          "address": "833 Lawrence Street, Jugtown, Arizona, 8058",
+          "city": "Alden",
+          "state": "Federated States Of Micronesia",
+          "zip": 16566,
+          "country": "Yemen"
+        },
+        "mobilePhone": "+1 (884) 490-3112",
+        "email": "ward.susie@isosphere.me"
+      }
+    },
+    {
+      "id": "12c8dba5-9157-4b26-a376-0022fe96f5d0",
+      "debtor": {
+        "title": "Ms.",
+        "firstName": "Hodge",
+        "lastName": "Pennington",
+        "address": {
+          "address": "197 Louis Place, Cowiche, District Of Columbia, 7400",
+          "city": "Glidden",
+          "state": "Idaho",
+          "zip": 20754,
+          "country": "Virgin Islands (British)"
+        },
+        "mobilePhone": "+1 (981) 438-3643",
+        "email": "pennington.hodge@netbook.biz"
+      }
+    },
+    {
+      "id": "9aa0682b-6113-49eb-8d37-d77e5822c633",
+      "debtor": {
+        "title": "Dr.",
+        "firstName": "Spears",
+        "lastName": "Leach",
+        "address": {
+          "address": "388 Bedford Place, Ribera, Minnesota, 3247",
+          "city": "Craig",
+          "state": "Kansas",
+          "zip": 60259,
+          "country": "Belgium"
+        },
+        "mobilePhone": "+1 (822) 476-3494",
+        "email": "leach.spears@zaphire.biz"
+      }
+    },
+    {
+      "id": "99109677-5946-43dc-b27f-27ef09b71247",
+      "debtor": {
+        "title": null,
+        "firstName": "Nell",
+        "lastName": "Eaton",
+        "address": {
+          "address": "444 Doscher Street, Longoria, Nevada, 7340",
+          "city": "Rutherford",
+          "state": "New York",
+          "zip": 89486,
+          "country": "Lesotho"
+        },
+        "mobilePhone": "+1 (921) 503-2839",
+        "email": "eaton.nell@entropix.org"
+      }
+    },
+    {
+      "id": "65c1c6c6-975d-42a0-b7b6-e3140f16d2c2",
+      "debtor": {
+        "title": null,
+        "firstName": "Glenda",
+        "lastName": "Daniels",
+        "address": {
+          "address": "844 Bond Street, Clay, Michigan, 4557",
+          "city": "Gerber",
+          "state": "Mississippi",
+          "zip": 68599,
+          "country": "Czech Republic"
+        },
+        "mobilePhone": "+1 (889) 498-2960",
+        "email": "daniels.glenda@uniworld.io"
+      }
+    },
+    {
+      "id": "e798ea27-8fe1-4feb-b3e0-5765f3b956ad",
+      "debtor": {
+        "title": "Mr",
+        "firstName": "Mcguire",
+        "lastName": "Sandoval",
+        "address": {
+          "address": "560 Summit Street, Thornport, Virginia, 5018",
+          "city": "Datil",
+          "state": "Palau",
+          "zip": 77852,
+          "country": "Macedonia"
+        },
+        "mobilePhone": "+1 (878) 508-3855",
+        "email": "sandoval.mcguire@zorromop.co.uk"
+      }
+    },
+    {
+      "id": "dd7d0504-ba5a-4f7c-9526-e53dbb4f4620",
+      "debtor": {
+        "title": "Dr.",
+        "firstName": "Fields",
+        "lastName": "Roach",
+        "address": {
+          "address": "491 Waldane Court, Dixie, Hawaii, 4051",
+          "city": "Cornucopia",
+          "state": "North Carolina",
+          "zip": 53903,
+          "country": "Guatemala"
+        },
+        "mobilePhone": "+1 (960) 430-3170",
+        "email": "roach.fields@glukgluk.ca"
+      }
+    },
+    {
+      "id": "c4aec04e-1883-4165-9fd2-c9838ffa7e68",
+      "debtor": {
+        "title": "Dr.",
+        "firstName": "Hardy",
+        "lastName": "Carlson",
+        "address": {
+          "address": "411 Fleet Street, Lavalette, Louisiana, 8156",
+          "city": "Westboro",
+          "state": "Maryland",
+          "zip": 13682,
+          "country": "Paraguay"
+        },
+        "mobilePhone": "+1 (935) 589-2608",
+        "email": "carlson.hardy@tellifly.com"
+      }
+    },
+    {
+      "id": "3355213b-fbd9-45b5-8da1-be336b6d5f61",
+      "debtor": {
+        "title": "Ms.",
+        "firstName": "Jenkins",
+        "lastName": "Abbott",
+        "address": {
+          "address": "400 Newton Street, Tibbie, Puerto Rico, 4436",
+          "city": "Colton",
+          "state": "Washington",
+          "zip": 52917,
+          "country": "Lebanon"
+        },
+        "mobilePhone": "+1 (818) 477-2655",
+        "email": "abbott.jenkins@zilladyne.info"
+      }
+    },
+    {
+      "id": "0b152783-f706-4485-8e1e-82a47a237042",
+      "debtor": {
+        "title": "Mr",
+        "firstName": "Lang",
+        "lastName": "Beach",
+        "address": {
+          "address": "391 Monitor Street, Websterville, New Jersey, 775",
+          "city": "Chalfant",
+          "state": "Alaska",
+          "zip": 87190,
+          "country": "Eritrea"
+        },
+        "mobilePhone": "+1 (905) 440-2910",
+        "email": "beach.lang@bitendrex.tv"
+      }
+    },
+    {
+      "id": "ba8eb9ab-3cc0-4a17-a170-8c37f35cd745",
+      "debtor": {
+        "title": "Ms.",
+        "firstName": "Elizabeth",
+        "lastName": "Petersen",
+        "address": {
+          "address": "174 Debevoise Street, Waterview, Wisconsin, 3121",
+          "city": "Fivepointville",
+          "state": "Northern Mariana Islands",
+          "zip": 25075,
+          "country": "Colombia"
+        },
+        "mobilePhone": "+1 (879) 575-2132",
+        "email": "petersen.elizabeth@xeronk.net"
+      }
+    },
+    {
+      "id": "11e05350-592c-4db2-8547-7c4627dcbf2e",
+      "debtor": {
+        "title": "Ms.",
+        "firstName": "Candice",
+        "lastName": "Cole",
+        "address": {
+          "address": "951 Albemarle Terrace, Dupuyer, Wyoming, 1262",
+          "city": "Manila",
+          "state": "Connecticut",
+          "zip": 44109,
+          "country": "Uganda"
+        },
+        "mobilePhone": "+1 (939) 464-3373",
+        "email": "cole.candice@hinway.name"
+      }
+    },
+    {
+      "id": "bf677fc6-2715-4d9c-863c-46950b2c1944",
+      "debtor": {
+        "title": "Mr",
+        "firstName": "Acosta",
+        "lastName": "Whitaker",
+        "address": {
+          "address": "399 Cortelyou Road, Hamilton, South Carolina, 1983",
+          "city": "Eden",
+          "state": "South Dakota",
+          "zip": 63298,
+          "country": "Argentina"
+        },
+        "mobilePhone": "+1 (873) 568-3677",
+        "email": "whitaker.acosta@waterbaby.me"
+      }
+    },
+    {
+      "id": "e8da1ad6-b675-4750-b86c-e209053bb0d2",
+      "debtor": {
+        "title": null,
+        "firstName": "Wade",
+        "lastName": "Strong",
+        "address": {
+          "address": "960 Quay Street, Carbonville, Tennessee, 810",
+          "city": "Harleigh",
+          "state": "Massachusetts",
+          "zip": 64863,
+          "country": "Trinidad and Tobago"
+        },
+        "mobilePhone": "+1 (862) 569-3929",
+        "email": "strong.wade@toyletry.biz"
+      }
+    },
+    {
+      "id": "0b277e07-b840-4790-85ab-88ea485152fb",
+      "debtor": {
+        "title": "Dr.",
+        "firstName": "Rose",
+        "lastName": "Ratliff",
+        "address": {
+          "address": "828 Kossuth Place, Hasty, Oklahoma, 8254",
+          "city": "Newry",
+          "state": "Rhode Island",
+          "zip": 94815,
+          "country": "Cayman Islands"
+        },
+        "mobilePhone": "+1 (963) 587-2941",
+        "email": "ratliff.rose@enaut.biz"
+      }
+    },
+    {
+      "id": "98d5ccfe-38ad-4317-b3cb-6c44b19b03c9",
+      "debtor": {
+        "title": "Dr.",
+        "firstName": "Bryant",
+        "lastName": "Gross",
+        "address": {
+          "address": "237 Chapel Street, Fairhaven, Delaware, 9902",
+          "city": "Epworth",
+          "state": "Maine",
+          "zip": 70849,
+          "country": "Guinea"
+        },
+        "mobilePhone": "+1 (896) 456-3151",
+        "email": "gross.bryant@recritube.org"
+      }
+    },
+    {
+      "id": "3cac4e31-4c3f-4416-bcf5-ee1d3af7b8fb",
+      "debtor": {
+        "title": "Dr.",
+        "firstName": "Vargas",
+        "lastName": "Mills",
+        "address": {
+          "address": "147 Kaufman Place, Grahamtown, New Hampshire, 5719",
+          "city": "Walton",
+          "state": "Georgia",
+          "zip": 97794,
+          "country": "Canada"
+        },
+        "mobilePhone": "+1 (812) 506-2380",
+        "email": "mills.vargas@pearlessa.io"
+      }
+    },
+    {
+      "id": "5bf5a506-b121-4c1d-85f0-c9f68cefc0d1",
+      "debtor": {
+        "title": "Mr",
+        "firstName": "Connie",
+        "lastName": "Snider",
+        "address": {
+          "address": "369 Fleet Place, Ruffin, Utah, 7063",
+          "city": "Dragoon",
+          "state": "New Mexico",
+          "zip": 74500,
+          "country": "Nigeria"
+        },
+        "mobilePhone": "+1 (898) 529-2796",
+        "email": "snider.connie@boink.co.uk"
+      }
+    },
+    {
+      "id": "751c6699-1962-45b2-bedd-3dc710428fe2",
+      "debtor": {
+        "title": "Mr",
+        "firstName": "Nellie",
+        "lastName": "Quinn",
+        "address": {
+          "address": "554 Miami Court, Cedarville, Oregon, 5738",
+          "city": "Belleview",
+          "state": "Guam",
+          "zip": 12274,
+          "country": "Saudi Arabia"
+        },
+        "mobilePhone": "+1 (982) 545-3442",
+        "email": "quinn.nellie@eplosion.ca"
+      }
+    },
+    {
+      "id": "3a595697-238f-4727-8d1c-e5a1499d9df8",
+      "debtor": {
+        "title": "Dr.",
+        "firstName": "Cochran",
+        "lastName": "Thompson",
+        "address": {
+          "address": "366 Colin Place, Hailesboro, Pennsylvania, 9860",
+          "city": "Salvo",
+          "state": "Florida",
+          "zip": 77223,
+          "country": "Nauru"
+        },
+        "mobilePhone": "+1 (859) 599-2426",
+        "email": "thompson.cochran@portica.com"
+      }
+    },
+    {
+      "id": "c4bb9eea-5708-432e-b7a7-e8173ab81701",
+      "debtor": {
+        "title": "Mr",
+        "firstName": "Stefanie",
+        "lastName": "Leon",
+        "address": {
+          "address": "453 Columbia Street, Hobucken, Marshall Islands, 6061",
+          "city": "Beechmont",
+          "state": "Indiana",
+          "zip": 43488,
+          "country": "Dominican Republic"
+        },
+        "mobilePhone": "+1 (948) 401-3973",
+        "email": "leon.stefanie@koffee.info"
+      }
+    }
+  ],
+  "claims": [
+    {
+      "id": "4b5b0de4-59c2-4153-8cfa-2ed019878fa8",
+      "accountId": "ff5f2424-0a46-444d-925c-d5bfb248e6f0",
+      "currency": "EUR,",
+      "baseAmount": 96025,
+      "fees": 76642,
+      "dueDate": "2020-03-13",
+      "status": "OPEN"
+    },
+    {
+      "id": "c88e1283-fe38-4ca2-bdd4-2cd93c7e5e0a",
+      "accountId": "ff5f2424-0a46-444d-925c-d5bfb248e6f0",
+      "currency": "EUR,",
+      "baseAmount": 79817,
+      "fees": 64754,
+      "dueDate": "2020-03-28",
+      "status": "PAID",
+      "paidAt": "2020-05-16"
+    },
+    {
+      "id": "82dc8117-5b9d-4117-b5c5-430d1e728c3c",
+      "accountId": "ff5f2424-0a46-444d-925c-d5bfb248e6f0",
+      "currency": "EUR,",
+      "baseAmount": 76725,
+      "fees": 22861,
+      "dueDate": "2020-02-28",
+      "status": "OPEN"
+    },
+    {
+      "id": "8d849ac5-7230-41de-b308-dfd24766af09",
+      "accountId": "45887367-1882-46fd-a5f0-8a60d60def18",
+      "currency": "EUR,",
+      "baseAmount": 40781,
+      "fees": 61285,
+      "dueDate": "2020-01-03",
+      "status": "DELETED",
+      "deletedAt": "2020-02-20"
+    },
+    {
+      "id": "7b811768-f4f0-465a-aba0-0ff6a15a13bc",
+      "accountId": "45887367-1882-46fd-a5f0-8a60d60def18",
+      "currency": "EUR,",
+      "baseAmount": 82219,
+      "fees": 93721,
+      "dueDate": "2020-03-03",
+      "status": "OPEN"
+    },
+    {
+      "id": "c190212e-14e5-4b71-8c1f-0ce0bda4d78f",
+      "accountId": "45887367-1882-46fd-a5f0-8a60d60def18",
+      "currency": "EUR,",
+      "baseAmount": 63541,
+      "fees": 24941,
+      "dueDate": "2020-01-11",
+      "status": "OPEN"
+    },
+    {
+      "id": "9209932c-3cfd-4150-bc55-3ac821ebb7e8",
+      "accountId": "45887367-1882-46fd-a5f0-8a60d60def18",
+      "currency": "EUR,",
+      "baseAmount": 85392,
+      "fees": 83569,
+      "dueDate": "2020-03-12",
+      "status": "PAID",
+      "paidAt": "2020-05-24"
+    },
+    {
+      "id": "1c0a450c-28c1-49d2-9cbd-a3fab6868ddc",
+      "accountId": "45887367-1882-46fd-a5f0-8a60d60def18",
+      "currency": "EUR,",
+      "baseAmount": 30126,
+      "fees": 65699,
+      "dueDate": "2020-01-05",
+      "status": "DELETED",
+      "deletedAt": "2020-04-03"
+    },
+    {
+      "id": "bbb0289a-f409-45b7-a638-cbfac89822e2",
+      "accountId": "45887367-1882-46fd-a5f0-8a60d60def18",
+      "currency": "EUR,",
+      "baseAmount": 41344,
+      "fees": 88254,
+      "dueDate": "2020-04-24",
+      "status": "OPEN"
+    },
+    {
+      "id": "09c86832-a94d-461d-b0ca-b2cb611411f9",
+      "accountId": "45887367-1882-46fd-a5f0-8a60d60def18",
+      "currency": "EUR,",
+      "baseAmount": 1839,
+      "fees": 69647,
+      "dueDate": "2020-04-10",
+      "status": "DELETED",
+      "deletedAt": "2020-05-30"
+    },
+    {
+      "id": "15a3c55f-d902-49f9-9fdb-2e0768234451",
+      "accountId": "45887367-1882-46fd-a5f0-8a60d60def18",
+      "currency": "EUR,",
+      "baseAmount": 58325,
+      "fees": 83468,
+      "dueDate": "2020-05-03",
+      "status": "DELETED",
+      "deletedAt": "2020-07-01"
+    },
+    {
+      "id": "ab6d318d-ed88-43ff-86f5-e5f3494a04ef",
+      "accountId": "31acce96-4fc4-4da7-9345-5f3ba5fb00b8",
+      "currency": "EUR,",
+      "baseAmount": 93804,
+      "fees": 40305,
+      "dueDate": "2020-03-31",
+      "status": "DELETED",
+      "deletedAt": "2020-05-09"
+    },
+    {
+      "id": "59b9a755-e574-44d5-9124-5faedcf49259",
+      "accountId": "31acce96-4fc4-4da7-9345-5f3ba5fb00b8",
+      "currency": "EUR,",
+      "baseAmount": 98393,
+      "fees": 43148,
+      "dueDate": "2020-02-19",
+      "status": "PAID",
+      "paidAt": "2020-03-15"
+    },
+    {
+      "id": "40fbb33e-fbfb-4c5f-81b7-9264da66a8ff",
+      "accountId": "31acce96-4fc4-4da7-9345-5f3ba5fb00b8",
+      "currency": "EUR,",
+      "baseAmount": 96779,
+      "fees": 26870,
+      "dueDate": "2020-04-13",
+      "status": "PAID",
+      "paidAt": "2020-05-03"
+    },
+    {
+      "id": "8428e7ec-89aa-46cf-b1a5-ddd8a4f205af",
+      "accountId": "31acce96-4fc4-4da7-9345-5f3ba5fb00b8",
+      "currency": "EUR,",
+      "baseAmount": 16368,
+      "fees": 44030,
+      "dueDate": "2020-05-20",
+      "status": "PAID",
+      "paidAt": "2020-06-21"
+    },
+    {
+      "id": "800812a7-4868-4a56-a638-849f4399ae6d",
+      "accountId": "31acce96-4fc4-4da7-9345-5f3ba5fb00b8",
+      "currency": "EUR,",
+      "baseAmount": 22883,
+      "fees": 87382,
+      "dueDate": "2020-04-04",
+      "status": "PAID",
+      "paidAt": "2020-06-29"
+    },
+    {
+      "id": "e3f8631e-5893-4d01-8393-63e48fd61a70",
+      "accountId": "31acce96-4fc4-4da7-9345-5f3ba5fb00b8",
+      "currency": "EUR,",
+      "baseAmount": 78674,
+      "fees": 369,
+      "dueDate": "2020-03-05",
+      "status": "OPEN"
+    },
+    {
+      "id": "3228ee99-5bcc-4f2c-b91f-129dd8c3d4a4",
+      "accountId": "31acce96-4fc4-4da7-9345-5f3ba5fb00b8",
+      "currency": "EUR,",
+      "baseAmount": 44035,
+      "fees": 22958,
+      "dueDate": "2020-02-24",
+      "status": "DELETED",
+      "deletedAt": "2020-03-02"
+    },
+    {
+      "id": "e9d953c6-748e-4be2-a25f-a76e6c78e186",
+      "accountId": "094c24e3-39a7-4c95-9a6f-d3c27741534f",
+      "currency": "EUR,",
+      "baseAmount": 37258,
+      "fees": 62965,
+      "dueDate": "2020-03-04",
+      "status": "OPEN"
+    },
+    {
+      "id": "bcbb3c12-cc10-421c-a1e7-1ee01b3ca18a",
+      "accountId": "094c24e3-39a7-4c95-9a6f-d3c27741534f",
+      "currency": "EUR,",
+      "baseAmount": 16260,
+      "fees": 29913,
+      "dueDate": "2020-04-04",
+      "status": "DELETED",
+      "deletedAt": "2020-04-14"
+    },
+    {
+      "id": "63fd4fdf-8f23-4686-89db-7cc881e0c932",
+      "accountId": "a436610e-0c46-4594-b3b9-b95198a4ba59",
+      "currency": "EUR,",
+      "baseAmount": 60097,
+      "fees": 50574,
+      "dueDate": "2020-03-01",
+      "status": "DELETED",
+      "deletedAt": "2020-05-07"
+    },
+    {
+      "id": "719243a7-3072-4535-ba62-82baad350c0a",
+      "accountId": "a436610e-0c46-4594-b3b9-b95198a4ba59",
+      "currency": "EUR,",
+      "baseAmount": 29849,
+      "fees": 19512,
+      "dueDate": "2020-04-03",
+      "status": "PAID",
+      "paidAt": "2020-06-05"
+    },
+    {
+      "id": "d44505e8-89a0-474f-97f7-50a58b44cf2d",
+      "accountId": "a436610e-0c46-4594-b3b9-b95198a4ba59",
+      "currency": "EUR,",
+      "baseAmount": 42551,
+      "fees": 79510,
+      "dueDate": "2020-03-02",
+      "status": "PAID",
+      "paidAt": "2020-04-06"
+    },
+    {
+      "id": "ba21387f-6328-4523-ba60-6ef5b0c94a76",
+      "accountId": "80fd68a3-951d-4397-8e28-a700a5fa8dbd",
+      "currency": "EUR,",
+      "baseAmount": 76120,
+      "fees": 27981,
+      "dueDate": "2020-04-02",
+      "status": "OPEN"
+    },
+    {
+      "id": "85ba7b58-10c1-4767-846a-ebe25d0c2445",
+      "accountId": "80fd68a3-951d-4397-8e28-a700a5fa8dbd",
+      "currency": "EUR,",
+      "baseAmount": 60042,
+      "fees": 22822,
+      "dueDate": "2020-03-26",
+      "status": "OPEN"
+    },
+    {
+      "id": "2143553f-bf52-416a-9d76-18fe86f850f4",
+      "accountId": "80fd68a3-951d-4397-8e28-a700a5fa8dbd",
+      "currency": "EUR,",
+      "baseAmount": 8700,
+      "fees": 19475,
+      "dueDate": "2020-03-13",
+      "status": "PAID",
+      "paidAt": "2020-04-18"
+    },
+    {
+      "id": "f308beae-406a-4bb7-8d1c-3e53991a0538",
+      "accountId": "80fd68a3-951d-4397-8e28-a700a5fa8dbd",
+      "currency": "EUR,",
+      "baseAmount": 37860,
+      "fees": 74247,
+      "dueDate": "2020-01-08",
+      "status": "OPEN"
+    },
+    {
+      "id": "b1f7ba30-79d3-41a9-9590-23eac41b8543",
+      "accountId": "80fd68a3-951d-4397-8e28-a700a5fa8dbd",
+      "currency": "EUR,",
+      "baseAmount": 78060,
+      "fees": 85745,
+      "dueDate": "2020-04-24",
+      "status": "PAID",
+      "paidAt": "2020-06-24"
+    },
+    {
+      "id": "2e78832c-ff3a-4641-b886-db3796ff9f7e",
+      "accountId": "80fd68a3-951d-4397-8e28-a700a5fa8dbd",
+      "currency": "EUR,",
+      "baseAmount": 83839,
+      "fees": 22970,
+      "dueDate": "2020-05-05",
+      "status": "PAID",
+      "paidAt": "2020-06-16"
+    },
+    {
+      "id": "fabb2bac-bfed-4e14-b905-4634485abfbd",
+      "accountId": "075a5df3-3f2d-414d-a052-af1812c47664",
+      "currency": "EUR,",
+      "baseAmount": 91487,
+      "fees": 34394,
+      "dueDate": "2020-02-12",
+      "status": "PAID",
+      "paidAt": "2020-05-07"
+    },
+    {
+      "id": "f3ed3001-594b-4f50-847b-a97b1430fddb",
+      "accountId": "075a5df3-3f2d-414d-a052-af1812c47664",
+      "currency": "EUR,",
+      "baseAmount": 92629,
+      "fees": 80295,
+      "dueDate": "2020-01-08",
+      "status": "PAID",
+      "paidAt": "2020-02-22"
+    },
+    {
+      "id": "196fd026-db0e-445d-b54f-604219785680",
+      "accountId": "075a5df3-3f2d-414d-a052-af1812c47664",
+      "currency": "EUR,",
+      "baseAmount": 35540,
+      "fees": 76968,
+      "dueDate": "2020-05-05",
+      "status": "OPEN"
+    },
+    {
+      "id": "2ffacf3f-e292-4561-bd3b-46a2a4f00da6",
+      "accountId": "ab8e9012-28eb-491c-98a6-8bfe5ee6bfa8",
+      "currency": "EUR,",
+      "baseAmount": 81145,
+      "fees": 24312,
+      "dueDate": "2020-02-03",
+      "status": "DELETED",
+      "deletedAt": "2020-04-07"
+    },
+    {
+      "id": "936dc36c-9c08-4037-8f5e-c0564f87e065",
+      "accountId": "ab8e9012-28eb-491c-98a6-8bfe5ee6bfa8",
+      "currency": "EUR,",
+      "baseAmount": 31721,
+      "fees": 77961,
+      "dueDate": "2020-03-07",
+      "status": "PAID",
+      "paidAt": "2020-05-14"
+    },
+    {
+      "id": "8173d84a-2dce-409d-8de0-511b962b6b4f",
+      "accountId": "ab8e9012-28eb-491c-98a6-8bfe5ee6bfa8",
+      "currency": "EUR,",
+      "baseAmount": 36276,
+      "fees": 40205,
+      "dueDate": "2020-03-11",
+      "status": "OPEN"
+    },
+    {
+      "id": "062d9ac6-a079-477e-bc79-9291fd02171f",
+      "accountId": "ab8e9012-28eb-491c-98a6-8bfe5ee6bfa8",
+      "currency": "EUR,",
+      "baseAmount": 57845,
+      "fees": 42072,
+      "dueDate": "2020-02-13",
+      "status": "OPEN"
+    },
+    {
+      "id": "033aba91-d2de-44d1-bcb6-a4010676347f",
+      "accountId": "ab8e9012-28eb-491c-98a6-8bfe5ee6bfa8",
+      "currency": "EUR,",
+      "baseAmount": 82176,
+      "fees": 29418,
+      "dueDate": "2020-05-19",
+      "status": "PAID",
+      "paidAt": "2020-06-19"
+    },
+    {
+      "id": "f07c3ca7-06a9-443b-bcd1-51fc75c37c71",
+      "accountId": "ab8e9012-28eb-491c-98a6-8bfe5ee6bfa8",
+      "currency": "EUR,",
+      "baseAmount": 88430,
+      "fees": 68406,
+      "dueDate": "2020-04-05",
+      "status": "OPEN"
+    },
+    {
+      "id": "58c83c26-ada3-4455-b24e-07e0f9bb3445",
+      "accountId": "ab8e9012-28eb-491c-98a6-8bfe5ee6bfa8",
+      "currency": "EUR,",
+      "baseAmount": 98267,
+      "fees": 87118,
+      "dueDate": "2020-04-10",
+      "status": "DELETED",
+      "deletedAt": "2020-04-13"
+    },
+    {
+      "id": "dfa11fd6-8d03-45fc-8a67-95b06f987bf9",
+      "accountId": "ab8e9012-28eb-491c-98a6-8bfe5ee6bfa8",
+      "currency": "EUR,",
+      "baseAmount": 13503,
+      "fees": 49799,
+      "dueDate": "2020-03-24",
+      "status": "OPEN"
+    },
+    {
+      "id": "3d01b53f-ff9a-40e9-a1f3-db484db7da3d",
+      "accountId": "ab8e9012-28eb-491c-98a6-8bfe5ee6bfa8",
+      "currency": "EUR,",
+      "baseAmount": 68498,
+      "fees": 42179,
+      "dueDate": "2020-05-13",
+      "status": "OPEN"
+    },
+    {
+      "id": "6a59d4e4-01d8-4e9c-9f96-6f38cdcce963",
+      "accountId": "f0c53d24-b4f7-47e0-818c-5dd1b08bffdd",
+      "currency": "EUR,",
+      "baseAmount": 42387,
+      "fees": 63596,
+      "dueDate": "2020-02-10",
+      "status": "PAID",
+      "paidAt": "2020-04-20"
+    },
+    {
+      "id": "3a78e4e5-9433-4ff5-948c-41cd1195e005",
+      "accountId": "f0c53d24-b4f7-47e0-818c-5dd1b08bffdd",
+      "currency": "EUR,",
+      "baseAmount": 1480,
+      "fees": 60305,
+      "dueDate": "2020-05-15",
+      "status": "OPEN"
+    },
+    {
+      "id": "7536c799-8803-4966-bef5-c5cec76c30b9",
+      "accountId": "f0c53d24-b4f7-47e0-818c-5dd1b08bffdd",
+      "currency": "EUR,",
+      "baseAmount": 26822,
+      "fees": 35540,
+      "dueDate": "2020-02-27",
+      "status": "DELETED",
+      "deletedAt": "2020-04-17"
+    },
+    {
+      "id": "9641d753-ff17-4bfb-bc52-d036b08c100f",
+      "accountId": "f0c53d24-b4f7-47e0-818c-5dd1b08bffdd",
+      "currency": "EUR,",
+      "baseAmount": 29094,
+      "fees": 8833,
+      "dueDate": "2020-02-02",
+      "status": "OPEN"
+    },
+    {
+      "id": "273a04d7-4653-4d15-a30e-6b515eb0abc6",
+      "accountId": "f0c53d24-b4f7-47e0-818c-5dd1b08bffdd",
+      "currency": "EUR,",
+      "baseAmount": 14562,
+      "fees": 27279,
+      "dueDate": "2020-04-04",
+      "status": "PAID",
+      "paidAt": "2020-05-21"
+    },
+    {
+      "id": "0cf042b7-6084-4d51-993f-4b1b3184471d",
+      "accountId": "f0c53d24-b4f7-47e0-818c-5dd1b08bffdd",
+      "currency": "EUR,",
+      "baseAmount": 6013,
+      "fees": 26033,
+      "dueDate": "2020-05-26",
+      "status": "PAID",
+      "paidAt": "2020-06-08"
+    },
+    {
+      "id": "ae3652b8-5d4e-4067-bdd0-407ec9af2fb7",
+      "accountId": "f0c53d24-b4f7-47e0-818c-5dd1b08bffdd",
+      "currency": "EUR,",
+      "baseAmount": 72536,
+      "fees": 74254,
+      "dueDate": "2020-01-14",
+      "status": "OPEN"
+    },
+    {
+      "id": "19b433b8-d1a0-4bb5-af74-9468476735b7",
+      "accountId": "813818ef-a278-49a8-bac3-6d4787e7eec1",
+      "currency": "EUR,",
+      "baseAmount": 36354,
+      "fees": 45443,
+      "dueDate": "2020-02-04",
+      "status": "PAID",
+      "paidAt": "2020-04-12"
+    },
+    {
+      "id": "02b016a3-d253-4e87-b58c-17016caad7c8",
+      "accountId": "813818ef-a278-49a8-bac3-6d4787e7eec1",
+      "currency": "EUR,",
+      "baseAmount": 47974,
+      "fees": 64858,
+      "dueDate": "2020-03-30",
+      "status": "OPEN"
+    },
+    {
+      "id": "e102eb61-bb04-41f3-8fb3-f1b39aa2ac4c",
+      "accountId": "813818ef-a278-49a8-bac3-6d4787e7eec1",
+      "currency": "EUR,",
+      "baseAmount": 8738,
+      "fees": 43928,
+      "dueDate": "2020-05-21",
+      "status": "OPEN"
+    },
+    {
+      "id": "c580978d-d3ee-4d73-8b16-69dc0869540e",
+      "accountId": "7f09bb76-b64c-4805-8583-27098a9a4760",
+      "currency": "EUR,",
+      "baseAmount": 18375,
+      "fees": 39652,
+      "dueDate": "2020-01-25",
+      "status": "DELETED",
+      "deletedAt": "2020-04-22"
+    },
+    {
+      "id": "cdf4ee6d-3d79-4f22-a9c3-8aa2c059752b",
+      "accountId": "7f09bb76-b64c-4805-8583-27098a9a4760",
+      "currency": "EUR,",
+      "baseAmount": 79527,
+      "fees": 80007,
+      "dueDate": "2020-05-18",
+      "status": "DELETED",
+      "deletedAt": "2020-07-08"
+    },
+    {
+      "id": "947c9950-76ef-40ab-9191-c73c74bfd6e1",
+      "accountId": "0a870e1e-daf4-4c9b-9c32-2d2361c5e84c",
+      "currency": "EUR,",
+      "baseAmount": 82666,
+      "fees": 37863,
+      "dueDate": "2020-05-09",
+      "status": "OPEN"
+    },
+    {
+      "id": "7f2effd8-b461-4f59-9701-13f826b1d254",
+      "accountId": "0a870e1e-daf4-4c9b-9c32-2d2361c5e84c",
+      "currency": "EUR,",
+      "baseAmount": 57311,
+      "fees": 66948,
+      "dueDate": "2020-05-12",
+      "status": "PAID",
+      "paidAt": "2020-05-16"
+    },
+    {
+      "id": "6da06db0-f279-4317-a6d0-592500a9a86e",
+      "accountId": "0a870e1e-daf4-4c9b-9c32-2d2361c5e84c",
+      "currency": "EUR,",
+      "baseAmount": 38893,
+      "fees": 74235,
+      "dueDate": "2020-04-30",
+      "status": "DELETED",
+      "deletedAt": "2020-07-20"
+    },
+    {
+      "id": "56c9a26e-c80a-412a-b44a-2b816f9d6888",
+      "accountId": "2250741c-23c9-4b92-9fc0-858df9ebff31",
+      "currency": "EUR,",
+      "baseAmount": 61105,
+      "fees": 21356,
+      "dueDate": "2020-04-25",
+      "status": "DELETED",
+      "deletedAt": "2020-05-10"
+    },
+    {
+      "id": "8ed72321-f549-4787-9eb8-ac0037aacf6d",
+      "accountId": "2250741c-23c9-4b92-9fc0-858df9ebff31",
+      "currency": "EUR,",
+      "baseAmount": 13671,
+      "fees": 82162,
+      "dueDate": "2020-01-12",
+      "status": "OPEN"
+    },
+    {
+      "id": "164b47f4-00bd-4e6e-acb4-213109c68b33",
+      "accountId": "2250741c-23c9-4b92-9fc0-858df9ebff31",
+      "currency": "EUR,",
+      "baseAmount": 39949,
+      "fees": 70065,
+      "dueDate": "2020-01-27",
+      "status": "OPEN"
+    },
+    {
+      "id": "5d6d5ee4-9498-47ec-b059-a83eddba50d9",
+      "accountId": "2250741c-23c9-4b92-9fc0-858df9ebff31",
+      "currency": "EUR,",
+      "baseAmount": 69671,
+      "fees": 30803,
+      "dueDate": "2020-03-01",
+      "status": "OPEN"
+    },
+    {
+      "id": "ea532e9b-79f7-4c32-89be-3088efc31b55",
+      "accountId": "2250741c-23c9-4b92-9fc0-858df9ebff31",
+      "currency": "EUR,",
+      "baseAmount": 19704,
+      "fees": 11247,
+      "dueDate": "2020-03-25",
+      "status": "DELETED",
+      "deletedAt": "2020-06-11"
+    },
+    {
+      "id": "0ea52e1d-e86e-44fc-bff0-8f146aee712c",
+      "accountId": "2250741c-23c9-4b92-9fc0-858df9ebff31",
+      "currency": "EUR,",
+      "baseAmount": 10996,
+      "fees": 66352,
+      "dueDate": "2020-01-01",
+      "status": "OPEN"
+    },
+    {
+      "id": "14b9139a-9920-4429-a635-538fae61fe48",
+      "accountId": "2250741c-23c9-4b92-9fc0-858df9ebff31",
+      "currency": "EUR,",
+      "baseAmount": 16015,
+      "fees": 29718,
+      "dueDate": "2020-02-17",
+      "status": "PAID",
+      "paidAt": "2020-03-28"
+    },
+    {
+      "id": "286156c2-5fbd-4841-a5f0-2caebf1eca6e",
+      "accountId": "46b51ddd-b31c-49b5-9a09-07616b0c2161",
+      "currency": "EUR,",
+      "baseAmount": 10422,
+      "fees": 21531,
+      "dueDate": "2020-01-12",
+      "status": "DELETED",
+      "deletedAt": "2020-03-10"
+    },
+    {
+      "id": "6147d3cd-33aa-4976-a8cf-e8a1f4d8f85e",
+      "accountId": "46b51ddd-b31c-49b5-9a09-07616b0c2161",
+      "currency": "EUR,",
+      "baseAmount": 6605,
+      "fees": 53655,
+      "dueDate": "2020-04-08",
+      "status": "OPEN"
+    },
+    {
+      "id": "0d2ed971-0d1b-49dd-90b3-c11001a20d3f",
+      "accountId": "46b51ddd-b31c-49b5-9a09-07616b0c2161",
+      "currency": "EUR,",
+      "baseAmount": 11866,
+      "fees": 27871,
+      "dueDate": "2020-04-04",
+      "status": "OPEN"
+    },
+    {
+      "id": "8f05dc35-b090-4090-be3d-80d984c456a8",
+      "accountId": "46b51ddd-b31c-49b5-9a09-07616b0c2161",
+      "currency": "EUR,",
+      "baseAmount": 49920,
+      "fees": 49229,
+      "dueDate": "2020-03-30",
+      "status": "DELETED",
+      "deletedAt": "2020-05-11"
+    },
+    {
+      "id": "0f512209-532a-4075-ab7e-95d30a383635",
+      "accountId": "46b51ddd-b31c-49b5-9a09-07616b0c2161",
+      "currency": "EUR,",
+      "baseAmount": 15894,
+      "fees": 62611,
+      "dueDate": "2020-04-25",
+      "status": "PAID",
+      "paidAt": "2020-06-09"
+    },
+    {
+      "id": "d7dbf76d-6678-469d-ac19-2117374306d3",
+      "accountId": "46b51ddd-b31c-49b5-9a09-07616b0c2161",
+      "currency": "EUR,",
+      "baseAmount": 56769,
+      "fees": 79438,
+      "dueDate": "2020-04-07",
+      "status": "PAID",
+      "paidAt": "2020-05-25"
+    },
+    {
+      "id": "ec6aad05-7ecd-43ad-83b1-e9f3af18773e",
+      "accountId": "46b51ddd-b31c-49b5-9a09-07616b0c2161",
+      "currency": "EUR,",
+      "baseAmount": 78072,
+      "fees": 16715,
+      "dueDate": "2020-04-07",
+      "status": "OPEN"
+    },
+    {
+      "id": "971363ae-2a87-4c31-a025-ec70e48d234a",
+      "accountId": "46b51ddd-b31c-49b5-9a09-07616b0c2161",
+      "currency": "EUR,",
+      "baseAmount": 17726,
+      "fees": 685,
+      "dueDate": "2020-02-15",
+      "status": "DELETED",
+      "deletedAt": "2020-03-06"
+    },
+    {
+      "id": "79a4b6fa-ed79-4d79-a20d-d7f4f4f0a5ba",
+      "accountId": "46b51ddd-b31c-49b5-9a09-07616b0c2161",
+      "currency": "EUR,",
+      "baseAmount": 42146,
+      "fees": 38328,
+      "dueDate": "2020-01-16",
+      "status": "PAID",
+      "paidAt": "2020-04-07"
+    },
+    {
+      "id": "77cf3822-ed0a-4ca8-bbd0-382a9deaf812",
+      "accountId": "64c9a289-badb-41a1-bb08-cfe9152f89b0",
+      "currency": "EUR,",
+      "baseAmount": 4892,
+      "fees": 78825,
+      "dueDate": "2020-02-09",
+      "status": "OPEN"
+    },
+    {
+      "id": "6dddc650-66dd-4128-a91f-fadd471796f6",
+      "accountId": "64c9a289-badb-41a1-bb08-cfe9152f89b0",
+      "currency": "EUR,",
+      "baseAmount": 26019,
+      "fees": 43579,
+      "dueDate": "2020-01-13",
+      "status": "OPEN"
+    },
+    {
+      "id": "b5e90b1d-4ebb-4889-94ba-618b901750ca",
+      "accountId": "64c9a289-badb-41a1-bb08-cfe9152f89b0",
+      "currency": "EUR,",
+      "baseAmount": 9993,
+      "fees": 16035,
+      "dueDate": "2020-05-25",
+      "status": "DELETED",
+      "deletedAt": "2020-05-28"
+    },
+    {
+      "id": "b8774eb4-5e1d-4fe4-ac4d-8ceb20207231",
+      "accountId": "64c9a289-badb-41a1-bb08-cfe9152f89b0",
+      "currency": "EUR,",
+      "baseAmount": 27886,
+      "fees": 6723,
+      "dueDate": "2020-04-15",
+      "status": "PAID",
+      "paidAt": "2020-06-20"
+    },
+    {
+      "id": "21619209-5fec-4f33-8269-6f426f5e9154",
+      "accountId": "64c9a289-badb-41a1-bb08-cfe9152f89b0",
+      "currency": "EUR,",
+      "baseAmount": 34633,
+      "fees": 38677,
+      "dueDate": "2020-02-09",
+      "status": "OPEN"
+    },
+    {
+      "id": "67e2c07b-85cf-491d-b3ca-153fe2dab144",
+      "accountId": "64c9a289-badb-41a1-bb08-cfe9152f89b0",
+      "currency": "EUR,",
+      "baseAmount": 55173,
+      "fees": 88959,
+      "dueDate": "2020-02-11",
+      "status": "DELETED",
+      "deletedAt": "2020-04-07"
+    },
+    {
+      "id": "d2c9274c-09ed-461e-a6db-0711ad1d43e8",
+      "accountId": "64c9a289-badb-41a1-bb08-cfe9152f89b0",
+      "currency": "EUR,",
+      "baseAmount": 96844,
+      "fees": 67360,
+      "dueDate": "2020-03-18",
+      "status": "OPEN"
+    },
+    {
+      "id": "beda8940-3f4e-428e-8677-ce9b137c5864",
+      "accountId": "64c9a289-badb-41a1-bb08-cfe9152f89b0",
+      "currency": "EUR,",
+      "baseAmount": 78857,
+      "fees": 93890,
+      "dueDate": "2020-04-15",
+      "status": "DELETED",
+      "deletedAt": "2020-07-07"
+    },
+    {
+      "id": "302964a6-5702-4618-80b6-cd6a1c1fbb0a",
+      "accountId": "64c9a289-badb-41a1-bb08-cfe9152f89b0",
+      "currency": "EUR,",
+      "baseAmount": 26817,
+      "fees": 6426,
+      "dueDate": "2020-04-10",
+      "status": "PAID",
+      "paidAt": "2020-05-17"
+    },
+    {
+      "id": "e0391e2b-b7ba-4c9c-b93f-bd440cd3bc2d",
+      "accountId": "64c9a289-badb-41a1-bb08-cfe9152f89b0",
+      "currency": "EUR,",
+      "baseAmount": 62316,
+      "fees": 10746,
+      "dueDate": "2020-04-13",
+      "status": "OPEN"
+    },
+    {
+      "id": "d06a100b-7159-47a1-a2a2-3b76548b0158",
+      "accountId": "b198724e-4781-45a9-9427-b4c908e4e0e5",
+      "currency": "EUR,",
+      "baseAmount": 14776,
+      "fees": 13620,
+      "dueDate": "2020-03-08",
+      "status": "DELETED",
+      "deletedAt": "2020-03-28"
+    },
+    {
+      "id": "97ea8619-8a70-42d1-947f-8b9d326d988b",
+      "accountId": "b198724e-4781-45a9-9427-b4c908e4e0e5",
+      "currency": "EUR,",
+      "baseAmount": 13372,
+      "fees": 9797,
+      "dueDate": "2020-05-13",
+      "status": "PAID",
+      "paidAt": "2020-05-27"
+    },
+    {
+      "id": "d87ba084-c3cf-4f8c-a41a-7a6ee3bbb57e",
+      "accountId": "b198724e-4781-45a9-9427-b4c908e4e0e5",
+      "currency": "EUR,",
+      "baseAmount": 44894,
+      "fees": 31034,
+      "dueDate": "2020-03-24",
+      "status": "OPEN"
+    },
+    {
+      "id": "cd767778-968f-42b3-a4c7-bd12343d0eb9",
+      "accountId": "b198724e-4781-45a9-9427-b4c908e4e0e5",
+      "currency": "EUR,",
+      "baseAmount": 48775,
+      "fees": 19258,
+      "dueDate": "2020-04-04",
+      "status": "OPEN"
+    },
+    {
+      "id": "4f047952-e4dc-40a1-acc9-61f54167a24a",
+      "accountId": "ce4a326b-59c2-4830-b40e-43c136fd1346",
+      "currency": "EUR,",
+      "baseAmount": 89661,
+      "fees": 39134,
+      "dueDate": "2020-05-09",
+      "status": "DELETED",
+      "deletedAt": "2020-07-13"
+    },
+    {
+      "id": "65de05eb-d1cb-4d3c-8ff2-d78a40b88b28",
+      "accountId": "f847dafe-ef85-4e20-b7e9-d3b2790bba48",
+      "currency": "EUR,",
+      "baseAmount": 53687,
+      "fees": 66912,
+      "dueDate": "2020-02-14",
+      "status": "PAID",
+      "paidAt": "2020-04-15"
+    },
+    {
+      "id": "e3d49bb2-f55a-41ec-9d6b-d38609b44783",
+      "accountId": "f847dafe-ef85-4e20-b7e9-d3b2790bba48",
+      "currency": "EUR,",
+      "baseAmount": 40321,
+      "fees": 94719,
+      "dueDate": "2020-05-13",
+      "status": "OPEN"
+    },
+    {
+      "id": "55407c28-1ded-4309-bed2-ae21ff6957cf",
+      "accountId": "e448c46c-5bfe-4f99-a63d-11cca80bed59",
+      "currency": "EUR,",
+      "baseAmount": 27075,
+      "fees": 60731,
+      "dueDate": "2020-01-02",
+      "status": "OPEN"
+    },
+    {
+      "id": "fe5ad65f-88be-4224-9f37-f7a754cf0620",
+      "accountId": "e448c46c-5bfe-4f99-a63d-11cca80bed59",
+      "currency": "EUR,",
+      "baseAmount": 86213,
+      "fees": 14152,
+      "dueDate": "2020-03-12",
+      "status": "DELETED",
+      "deletedAt": "2020-04-06"
+    },
+    {
+      "id": "70f8b56f-402d-4a9c-916d-bee47648686a",
+      "accountId": "e448c46c-5bfe-4f99-a63d-11cca80bed59",
+      "currency": "EUR,",
+      "baseAmount": 12909,
+      "fees": 96517,
+      "dueDate": "2020-05-08",
+      "status": "DELETED",
+      "deletedAt": "2020-07-18"
+    },
+    {
+      "id": "4a5f7d0b-ffc9-4a1f-85de-729d9ca34805",
+      "accountId": "e448c46c-5bfe-4f99-a63d-11cca80bed59",
+      "currency": "EUR,",
+      "baseAmount": 79812,
+      "fees": 62724,
+      "dueDate": "2020-03-14",
+      "status": "DELETED",
+      "deletedAt": "2020-05-03"
+    },
+    {
+      "id": "0cfcd674-140a-481a-ba3f-362e901b62ac",
+      "accountId": "e448c46c-5bfe-4f99-a63d-11cca80bed59",
+      "currency": "EUR,",
+      "baseAmount": 51959,
+      "fees": 17559,
+      "dueDate": "2020-05-26",
+      "status": "DELETED",
+      "deletedAt": "2020-08-11"
+    },
+    {
+      "id": "93c2c5a1-3d5d-47f2-8647-f09a3e35419e",
+      "accountId": "e448c46c-5bfe-4f99-a63d-11cca80bed59",
+      "currency": "EUR,",
+      "baseAmount": 27019,
+      "fees": 88679,
+      "dueDate": "2020-02-28",
+      "status": "PAID",
+      "paidAt": "2020-04-07"
+    },
+    {
+      "id": "61f577b0-418d-4032-bb94-103de1fb7327",
+      "accountId": "e448c46c-5bfe-4f99-a63d-11cca80bed59",
+      "currency": "EUR,",
+      "baseAmount": 2720,
+      "fees": 79142,
+      "dueDate": "2020-02-02",
+      "status": "PAID",
+      "paidAt": "2020-04-30"
+    },
+    {
+      "id": "0bc9149a-3476-4530-9e0f-81bc4f2128b9",
+      "accountId": "e448c46c-5bfe-4f99-a63d-11cca80bed59",
+      "currency": "EUR,",
+      "baseAmount": 29114,
+      "fees": 95460,
+      "dueDate": "2020-03-04",
+      "status": "OPEN"
+    },
+    {
+      "id": "325ba2e5-1953-48d3-956f-3a31d4b84597",
+      "accountId": "6ca547b9-b1f3-4226-97b8-f596a0c34789",
+      "currency": "EUR,",
+      "baseAmount": 69840,
+      "fees": 38151,
+      "dueDate": "2020-05-30",
+      "status": "OPEN"
+    },
+    {
+      "id": "39f05b82-5f29-4e82-917d-c10c43709d31",
+      "accountId": "6ca547b9-b1f3-4226-97b8-f596a0c34789",
+      "currency": "EUR,",
+      "baseAmount": 96979,
+      "fees": 55395,
+      "dueDate": "2020-04-26",
+      "status": "DELETED",
+      "deletedAt": "2020-06-03"
+    },
+    {
+      "id": "1db4d79c-d062-4b22-acab-b0f598c431b4",
+      "accountId": "6ca547b9-b1f3-4226-97b8-f596a0c34789",
+      "currency": "EUR,",
+      "baseAmount": 91501,
+      "fees": 63645,
+      "dueDate": "2020-05-23",
+      "status": "DELETED",
+      "deletedAt": "2020-07-02"
+    },
+    {
+      "id": "634554a7-03bc-4f3d-ae78-4f968073430f",
+      "accountId": "6ca547b9-b1f3-4226-97b8-f596a0c34789",
+      "currency": "EUR,",
+      "baseAmount": 35616,
+      "fees": 62067,
+      "dueDate": "2020-01-11",
+      "status": "OPEN"
+    },
+    {
+      "id": "95f4be0d-298c-418c-b3b2-3421b06bd36e",
+      "accountId": "6ca547b9-b1f3-4226-97b8-f596a0c34789",
+      "currency": "EUR,",
+      "baseAmount": 87479,
+      "fees": 37264,
+      "dueDate": "2020-04-06",
+      "status": "DELETED",
+      "deletedAt": "2020-06-18"
+    },
+    {
+      "id": "a31d78a5-2de0-4515-b188-da723e198530",
+      "accountId": "1641f467-bcd3-456c-a8b6-982d8f87998b",
+      "currency": "EUR,",
+      "baseAmount": 12694,
+      "fees": 71203,
+      "dueDate": "2020-01-30",
+      "status": "OPEN"
+    },
+    {
+      "id": "bcb7e6bd-5cd7-4cef-9d1a-3b4d6b95b8f4",
+      "accountId": "1641f467-bcd3-456c-a8b6-982d8f87998b",
+      "currency": "EUR,",
+      "baseAmount": 62782,
+      "fees": 7280,
+      "dueDate": "2020-03-29",
+      "status": "DELETED",
+      "deletedAt": "2020-05-11"
+    },
+    {
+      "id": "b7bfe87c-2308-4e68-b38b-fd19171b9255",
+      "accountId": "1641f467-bcd3-456c-a8b6-982d8f87998b",
+      "currency": "EUR,",
+      "baseAmount": 49529,
+      "fees": 48461,
+      "dueDate": "2020-05-06",
+      "status": "OPEN"
+    },
+    {
+      "id": "b6e033e6-c5a5-4e9e-b32f-f4b4e9633af3",
+      "accountId": "1641f467-bcd3-456c-a8b6-982d8f87998b",
+      "currency": "EUR,",
+      "baseAmount": 31753,
+      "fees": 15066,
+      "dueDate": "2020-04-27",
+      "status": "OPEN"
+    },
+    {
+      "id": "8a851ba6-f855-4f35-a69d-8649e7aca788",
+      "accountId": "1641f467-bcd3-456c-a8b6-982d8f87998b",
+      "currency": "EUR,",
+      "baseAmount": 33261,
+      "fees": 95356,
+      "dueDate": "2020-01-19",
+      "status": "OPEN"
+    },
+    {
+      "id": "8e165a56-8eda-4ee3-94f6-cd3e874c08ff",
+      "accountId": "1641f467-bcd3-456c-a8b6-982d8f87998b",
+      "currency": "EUR,",
+      "baseAmount": 93435,
+      "fees": 51777,
+      "dueDate": "2020-02-05",
+      "status": "DELETED",
+      "deletedAt": "2020-03-07"
+    },
+    {
+      "id": "cd91e923-356f-42d0-a9fd-35cbccea7bd2",
+      "accountId": "1641f467-bcd3-456c-a8b6-982d8f87998b",
+      "currency": "EUR,",
+      "baseAmount": 58332,
+      "fees": 51269,
+      "dueDate": "2020-03-15",
+      "status": "PAID",
+      "paidAt": "2020-03-27"
+    },
+    {
+      "id": "e0579627-79bc-4648-b2ad-a50b4defef98",
+      "accountId": "1641f467-bcd3-456c-a8b6-982d8f87998b",
+      "currency": "EUR,",
+      "baseAmount": 1123,
+      "fees": 63738,
+      "dueDate": "2020-01-12",
+      "status": "OPEN"
+    },
+    {
+      "id": "b3b3b7d3-b3f7-4ead-a9c5-2ba8ab5f94e7",
+      "accountId": "1641f467-bcd3-456c-a8b6-982d8f87998b",
+      "currency": "EUR,",
+      "baseAmount": 23881,
+      "fees": 39016,
+      "dueDate": "2020-02-11",
+      "status": "PAID",
+      "paidAt": "2020-03-10"
+    },
+    {
+      "id": "46570896-4d2e-4bf1-83be-89e883969eed",
+      "accountId": "b8b93d9f-0626-48f9-9297-8f7aed9c2da0",
+      "currency": "EUR,",
+      "baseAmount": 32112,
+      "fees": 48997,
+      "dueDate": "2020-01-20",
+      "status": "OPEN"
+    },
+    {
+      "id": "50ae3cbc-edd4-400f-b094-0392d3711b06",
+      "accountId": "b8b93d9f-0626-48f9-9297-8f7aed9c2da0",
+      "currency": "EUR,",
+      "baseAmount": 44376,
+      "fees": 14446,
+      "dueDate": "2020-05-17",
+      "status": "OPEN"
+    },
+    {
+      "id": "fb587f61-6af3-4d10-a93d-2fbd6c8d06b2",
+      "accountId": "b8b93d9f-0626-48f9-9297-8f7aed9c2da0",
+      "currency": "EUR,",
+      "baseAmount": 29148,
+      "fees": 66514,
+      "dueDate": "2020-02-19",
+      "status": "PAID",
+      "paidAt": "2020-02-24"
+    },
+    {
+      "id": "cb832dd7-c99e-45c6-8ea6-3a995b837905",
+      "accountId": "b8b93d9f-0626-48f9-9297-8f7aed9c2da0",
+      "currency": "EUR,",
+      "baseAmount": 55446,
+      "fees": 72321,
+      "dueDate": "2020-05-03",
+      "status": "OPEN"
+    },
+    {
+      "id": "4d7cabed-d418-43b9-ad35-1915cc9cd52a",
+      "accountId": "b8b93d9f-0626-48f9-9297-8f7aed9c2da0",
+      "currency": "EUR,",
+      "baseAmount": 81645,
+      "fees": 94258,
+      "dueDate": "2020-03-30",
+      "status": "PAID",
+      "paidAt": "2020-04-09"
+    },
+    {
+      "id": "1ba09c1b-2777-4f28-8a02-ed17285a28ed",
+      "accountId": "b8b93d9f-0626-48f9-9297-8f7aed9c2da0",
+      "currency": "EUR,",
+      "baseAmount": 83562,
+      "fees": 48973,
+      "dueDate": "2020-04-17",
+      "status": "PAID",
+      "paidAt": "2020-05-20"
+    },
+    {
+      "id": "a0fe7b0a-5161-4198-ad0b-725aaed54a68",
+      "accountId": "b8b93d9f-0626-48f9-9297-8f7aed9c2da0",
+      "currency": "EUR,",
+      "baseAmount": 79346,
+      "fees": 41680,
+      "dueDate": "2020-02-18",
+      "status": "DELETED",
+      "deletedAt": "2020-03-30"
+    },
+    {
+      "id": "52001bd8-0ac9-40cc-8c72-f8cd8446ec4c",
+      "accountId": "b4efc84f-b7ad-4a59-a952-5ba3c4714486",
+      "currency": "EUR,",
+      "baseAmount": 82444,
+      "fees": 31935,
+      "dueDate": "2020-05-18",
+      "status": "DELETED",
+      "deletedAt": "2020-06-03"
+    },
+    {
+      "id": "07d909e0-807d-43ab-993f-00916e61f27c",
+      "accountId": "b4efc84f-b7ad-4a59-a952-5ba3c4714486",
+      "currency": "EUR,",
+      "baseAmount": 60188,
+      "fees": 68040,
+      "dueDate": "2020-04-11",
+      "status": "DELETED",
+      "deletedAt": "2020-05-18"
+    },
+    {
+      "id": "840e8bdb-cc58-4fe4-9e6a-65fc522c80a7",
+      "accountId": "b4efc84f-b7ad-4a59-a952-5ba3c4714486",
+      "currency": "EUR,",
+      "baseAmount": 8176,
+      "fees": 11823,
+      "dueDate": "2020-03-06",
+      "status": "DELETED",
+      "deletedAt": "2020-05-11"
+    },
+    {
+      "id": "c7ae2f74-c837-4d1f-adc4-ee3ab6f18a87",
+      "accountId": "b4efc84f-b7ad-4a59-a952-5ba3c4714486",
+      "currency": "EUR,",
+      "baseAmount": 86021,
+      "fees": 554,
+      "dueDate": "2020-03-10",
+      "status": "DELETED",
+      "deletedAt": "2020-03-20"
+    },
+    {
+      "id": "4dca844d-afe1-46ca-981d-bfe9f1a08d4f",
+      "accountId": "b4efc84f-b7ad-4a59-a952-5ba3c4714486",
+      "currency": "EUR,",
+      "baseAmount": 54871,
+      "fees": 42898,
+      "dueDate": "2020-01-11",
+      "status": "DELETED",
+      "deletedAt": "2020-02-11"
+    },
+    {
+      "id": "6563fa08-9b5a-4d41-a68f-ead3888b8cab",
+      "accountId": "b4efc84f-b7ad-4a59-a952-5ba3c4714486",
+      "currency": "EUR,",
+      "baseAmount": 32734,
+      "fees": 55845,
+      "dueDate": "2020-05-30",
+      "status": "OPEN"
+    },
+    {
+      "id": "1f1ab482-f78d-4a70-8344-467dd5a0cd9f",
+      "accountId": "b4efc84f-b7ad-4a59-a952-5ba3c4714486",
+      "currency": "EUR,",
+      "baseAmount": 11048,
+      "fees": 96263,
+      "dueDate": "2020-05-22",
+      "status": "PAID",
+      "paidAt": "2020-06-25"
+    },
+    {
+      "id": "ba1b6e32-22c8-405a-ae38-895dee8ac9e6",
+      "accountId": "b4efc84f-b7ad-4a59-a952-5ba3c4714486",
+      "currency": "EUR,",
+      "baseAmount": 35431,
+      "fees": 37163,
+      "dueDate": "2020-01-28",
+      "status": "DELETED",
+      "deletedAt": "2020-02-09"
+    },
+    {
+      "id": "e3ba829f-a476-41bf-8ca7-d942fef5e0ee",
+      "accountId": "b4efc84f-b7ad-4a59-a952-5ba3c4714486",
+      "currency": "EUR,",
+      "baseAmount": 6315,
+      "fees": 94136,
+      "dueDate": "2020-01-13",
+      "status": "OPEN"
+    },
+    {
+      "id": "0a1e5270-fed1-4134-bbf9-b3e9aab57c5d",
+      "accountId": "5e13fa94-1f49-46eb-a6f1-bdf61a78545b",
+      "currency": "EUR,",
+      "baseAmount": 23860,
+      "fees": 64722,
+      "dueDate": "2020-01-12",
+      "status": "PAID",
+      "paidAt": "2020-02-12"
+    },
+    {
+      "id": "f24f0b34-bc30-4dd4-84ec-8a813a3e96b4",
+      "accountId": "5e13fa94-1f49-46eb-a6f1-bdf61a78545b",
+      "currency": "EUR,",
+      "baseAmount": 79229,
+      "fees": 12073,
+      "dueDate": "2020-05-15",
+      "status": "OPEN"
+    },
+    {
+      "id": "38a1a092-6ed9-4958-b8ad-bde3cd789432",
+      "accountId": "5e13fa94-1f49-46eb-a6f1-bdf61a78545b",
+      "currency": "EUR,",
+      "baseAmount": 78725,
+      "fees": 27434,
+      "dueDate": "2020-02-16",
+      "status": "DELETED",
+      "deletedAt": "2020-03-18"
+    },
+    {
+      "id": "9242d0ec-8e84-422e-b838-991df37fd1f7",
+      "accountId": "5e13fa94-1f49-46eb-a6f1-bdf61a78545b",
+      "currency": "EUR,",
+      "baseAmount": 80601,
+      "fees": 63022,
+      "dueDate": "2020-01-09",
+      "status": "DELETED",
+      "deletedAt": "2020-02-04"
+    },
+    {
+      "id": "5af22a8e-0d00-40c9-b875-c33da34a2b52",
+      "accountId": "5e13fa94-1f49-46eb-a6f1-bdf61a78545b",
+      "currency": "EUR,",
+      "baseAmount": 4877,
+      "fees": 45923,
+      "dueDate": "2020-01-21",
+      "status": "OPEN"
+    },
+    {
+      "id": "33aab265-934f-4f60-8af2-028868f82de6",
+      "accountId": "5e13fa94-1f49-46eb-a6f1-bdf61a78545b",
+      "currency": "EUR,",
+      "baseAmount": 74907,
+      "fees": 74488,
+      "dueDate": "2020-05-02",
+      "status": "OPEN"
+    },
+    {
+      "id": "b5fde70e-0015-4486-b858-8b229035d823",
+      "accountId": "5e13fa94-1f49-46eb-a6f1-bdf61a78545b",
+      "currency": "EUR,",
+      "baseAmount": 89387,
+      "fees": 39935,
+      "dueDate": "2020-02-21",
+      "status": "DELETED",
+      "deletedAt": "2020-04-07"
+    },
+    {
+      "id": "558a269f-f23b-4a13-b205-fbf1a4bc32a6",
+      "accountId": "5e13fa94-1f49-46eb-a6f1-bdf61a78545b",
+      "currency": "EUR,",
+      "baseAmount": 8184,
+      "fees": 7124,
+      "dueDate": "2020-05-19",
+      "status": "OPEN"
+    },
+    {
+      "id": "b7d29fed-de4d-4c40-963c-844e2a39f34d",
+      "accountId": "76e7eaa4-7887-4412-8435-37f787406c96",
+      "currency": "EUR,",
+      "baseAmount": 85910,
+      "fees": 94361,
+      "dueDate": "2020-02-08",
+      "status": "DELETED",
+      "deletedAt": "2020-02-19"
+    },
+    {
+      "id": "88e763da-15c8-4389-9bbb-60ceaeb9fa86",
+      "accountId": "76e7eaa4-7887-4412-8435-37f787406c96",
+      "currency": "EUR,",
+      "baseAmount": 12365,
+      "fees": 9551,
+      "dueDate": "2020-05-04",
+      "status": "PAID",
+      "paidAt": "2020-07-16"
+    },
+    {
+      "id": "a8fdcaf0-c4ff-41fe-ada4-dd73c1b8119b",
+      "accountId": "76e7eaa4-7887-4412-8435-37f787406c96",
+      "currency": "EUR,",
+      "baseAmount": 44722,
+      "fees": 69374,
+      "dueDate": "2020-01-31",
+      "status": "DELETED",
+      "deletedAt": "2020-03-30"
+    },
+    {
+      "id": "69ae85fc-1632-4c6b-86d8-4656e14aabe9",
+      "accountId": "76e7eaa4-7887-4412-8435-37f787406c96",
+      "currency": "EUR,",
+      "baseAmount": 53805,
+      "fees": 59186,
+      "dueDate": "2020-01-07",
+      "status": "PAID",
+      "paidAt": "2020-01-13"
+    },
+    {
+      "id": "8d8649e1-c66f-4c5d-a932-0764fe8e9ae6",
+      "accountId": "76e7eaa4-7887-4412-8435-37f787406c96",
+      "currency": "EUR,",
+      "baseAmount": 19752,
+      "fees": 86082,
+      "dueDate": "2020-01-23",
+      "status": "PAID",
+      "paidAt": "2020-02-08"
+    },
+    {
+      "id": "a5ed4a6c-caa1-42b3-bc92-c383f39f581a",
+      "accountId": "76e7eaa4-7887-4412-8435-37f787406c96",
+      "currency": "EUR,",
+      "baseAmount": 71115,
+      "fees": 32720,
+      "dueDate": "2020-01-02",
+      "status": "PAID",
+      "paidAt": "2020-01-05"
+    },
+    {
+      "id": "b75e5e7c-2712-4c8a-af15-9c8895753404",
+      "accountId": "f176a603-a1ed-4348-a86a-650adad3da60",
+      "currency": "EUR,",
+      "baseAmount": 17737,
+      "fees": 23733,
+      "dueDate": "2020-03-21",
+      "status": "OPEN"
+    },
+    {
+      "id": "11b6b9ca-1d68-4090-9d55-61f07a251834",
+      "accountId": "f176a603-a1ed-4348-a86a-650adad3da60",
+      "currency": "EUR,",
+      "baseAmount": 75248,
+      "fees": 46719,
+      "dueDate": "2020-04-28",
+      "status": "PAID",
+      "paidAt": "2020-07-17"
+    },
+    {
+      "id": "620f123b-5e40-4701-8474-675336105b79",
+      "accountId": "f176a603-a1ed-4348-a86a-650adad3da60",
+      "currency": "EUR,",
+      "baseAmount": 58480,
+      "fees": 7147,
+      "dueDate": "2020-05-14",
+      "status": "OPEN"
+    },
+    {
+      "id": "eeb4218d-8427-4f1a-879e-98ef7fd09886",
+      "accountId": "f176a603-a1ed-4348-a86a-650adad3da60",
+      "currency": "EUR,",
+      "baseAmount": 22822,
+      "fees": 73278,
+      "dueDate": "2020-01-26",
+      "status": "OPEN"
+    },
+    {
+      "id": "8bd226e7-10a8-4fe6-a985-153dd05bc49d",
+      "accountId": "f176a603-a1ed-4348-a86a-650adad3da60",
+      "currency": "EUR,",
+      "baseAmount": 45790,
+      "fees": 42349,
+      "dueDate": "2020-02-06",
+      "status": "PAID",
+      "paidAt": "2020-03-01"
+    },
+    {
+      "id": "1138eb60-9a87-4231-839f-96dc0a983a6c",
+      "accountId": "f176a603-a1ed-4348-a86a-650adad3da60",
+      "currency": "EUR,",
+      "baseAmount": 8980,
+      "fees": 7530,
+      "dueDate": "2020-04-22",
+      "status": "OPEN"
+    },
+    {
+      "id": "6c52b3f6-9b11-45b2-8504-633db15fe887",
+      "accountId": "f176a603-a1ed-4348-a86a-650adad3da60",
+      "currency": "EUR,",
+      "baseAmount": 57099,
+      "fees": 62165,
+      "dueDate": "2020-03-18",
+      "status": "DELETED",
+      "deletedAt": "2020-06-15"
+    },
+    {
+      "id": "b2cfb3f4-5e0b-4ac3-87f7-6060f0196ab1",
+      "accountId": "f176a603-a1ed-4348-a86a-650adad3da60",
+      "currency": "EUR,",
+      "baseAmount": 78598,
+      "fees": 81956,
+      "dueDate": "2020-03-11",
+      "status": "PAID",
+      "paidAt": "2020-05-17"
+    },
+    {
+      "id": "b067a2ad-1b62-46c3-91b2-147631fce927",
+      "accountId": "f176a603-a1ed-4348-a86a-650adad3da60",
+      "currency": "EUR,",
+      "baseAmount": 52916,
+      "fees": 90265,
+      "dueDate": "2020-03-26",
+      "status": "OPEN"
+    },
+    {
+      "id": "5b2d19f7-045e-4690-b545-be2ff868b08d",
+      "accountId": "8d176c1d-681b-405d-b7ac-2a36a3d7d705",
+      "currency": "EUR,",
+      "baseAmount": 69755,
+      "fees": 73069,
+      "dueDate": "2020-04-12",
+      "status": "DELETED",
+      "deletedAt": "2020-06-28"
+    },
+    {
+      "id": "477676d3-6ba0-4b07-be81-0c9de20a9de7",
+      "accountId": "8d176c1d-681b-405d-b7ac-2a36a3d7d705",
+      "currency": "EUR,",
+      "baseAmount": 80466,
+      "fees": 19398,
+      "dueDate": "2020-03-18",
+      "status": "DELETED",
+      "deletedAt": "2020-05-20"
+    },
+    {
+      "id": "5c8584fe-5881-4fa6-9878-5a22e1c786a6",
+      "accountId": "8d176c1d-681b-405d-b7ac-2a36a3d7d705",
+      "currency": "EUR,",
+      "baseAmount": 29884,
+      "fees": 60185,
+      "dueDate": "2020-05-31",
+      "status": "DELETED",
+      "deletedAt": "2020-08-06"
+    },
+    {
+      "id": "2b58f150-20d7-4d48-847f-d7e8a6cee40c",
+      "accountId": "8d176c1d-681b-405d-b7ac-2a36a3d7d705",
+      "currency": "EUR,",
+      "baseAmount": 2542,
+      "fees": 96418,
+      "dueDate": "2020-02-15",
+      "status": "DELETED",
+      "deletedAt": "2020-04-18"
+    },
+    {
+      "id": "26d5c23f-59d7-4a04-a7e6-ab2f5ddaa7b5",
+      "accountId": "8d176c1d-681b-405d-b7ac-2a36a3d7d705",
+      "currency": "EUR,",
+      "baseAmount": 94806,
+      "fees": 71313,
+      "dueDate": "2020-04-14",
+      "status": "OPEN"
+    },
+    {
+      "id": "f5938c90-2f04-4b9d-bb00-5bd2cb02f9bd",
+      "accountId": "8d176c1d-681b-405d-b7ac-2a36a3d7d705",
+      "currency": "EUR,",
+      "baseAmount": 67324,
+      "fees": 60066,
+      "dueDate": "2020-03-27",
+      "status": "OPEN"
+    },
+    {
+      "id": "0a0bd465-c37b-4842-ae9b-b3ad21e41fdb",
+      "accountId": "8d176c1d-681b-405d-b7ac-2a36a3d7d705",
+      "currency": "EUR,",
+      "baseAmount": 13537,
+      "fees": 88311,
+      "dueDate": "2020-01-29",
+      "status": "OPEN"
+    },
+    {
+      "id": "95946757-8a8c-42cb-be01-0c30d76cd2cb",
+      "accountId": "8d176c1d-681b-405d-b7ac-2a36a3d7d705",
+      "currency": "EUR,",
+      "baseAmount": 68807,
+      "fees": 20655,
+      "dueDate": "2020-01-28",
+      "status": "DELETED",
+      "deletedAt": "2020-04-04"
+    },
+    {
+      "id": "6822dd7e-9fdb-4619-9219-bc19381df8f7",
+      "accountId": "8d176c1d-681b-405d-b7ac-2a36a3d7d705",
+      "currency": "EUR,",
+      "baseAmount": 40564,
+      "fees": 1204,
+      "dueDate": "2020-04-27",
+      "status": "DELETED",
+      "deletedAt": "2020-07-21"
+    },
+    {
+      "id": "74ffffd4-0ee3-462b-959f-3fb1d2b8aae9",
+      "accountId": "ca399581-f13f-497e-9d76-8a9a4261b7b1",
+      "currency": "EUR,",
+      "baseAmount": 21147,
+      "fees": 6615,
+      "dueDate": "2020-05-18",
+      "status": "PAID",
+      "paidAt": "2020-08-04"
+    },
+    {
+      "id": "ce2aa1f6-4c76-48c1-86c6-2f7c18ae3f1e",
+      "accountId": "ca399581-f13f-497e-9d76-8a9a4261b7b1",
+      "currency": "EUR,",
+      "baseAmount": 11347,
+      "fees": 1767,
+      "dueDate": "2020-01-21",
+      "status": "DELETED",
+      "deletedAt": "2020-02-12"
+    },
+    {
+      "id": "9864009a-409b-49dc-807b-b412b0e85dd8",
+      "accountId": "ca399581-f13f-497e-9d76-8a9a4261b7b1",
+      "currency": "EUR,",
+      "baseAmount": 35995,
+      "fees": 96714,
+      "dueDate": "2020-04-23",
+      "status": "OPEN"
+    },
+    {
+      "id": "7cee71df-e7ea-4deb-a535-f455c2ccca89",
+      "accountId": "ca399581-f13f-497e-9d76-8a9a4261b7b1",
+      "currency": "EUR,",
+      "baseAmount": 33715,
+      "fees": 14022,
+      "dueDate": "2020-05-19",
+      "status": "DELETED",
+      "deletedAt": "2020-06-19"
+    },
+    {
+      "id": "389ca574-f520-444d-978f-06f160e777e8",
+      "accountId": "ca399581-f13f-497e-9d76-8a9a4261b7b1",
+      "currency": "EUR,",
+      "baseAmount": 42554,
+      "fees": 34234,
+      "dueDate": "2020-04-07",
+      "status": "DELETED",
+      "deletedAt": "2020-07-06"
+    },
+    {
+      "id": "8558f93f-6164-4117-bf20-ab9ed8ac348c",
+      "accountId": "ca399581-f13f-497e-9d76-8a9a4261b7b1",
+      "currency": "EUR,",
+      "baseAmount": 89818,
+      "fees": 56979,
+      "dueDate": "2020-04-09",
+      "status": "PAID",
+      "paidAt": "2020-07-01"
+    },
+    {
+      "id": "5814e491-d82e-45a5-9e90-77c933870604",
+      "accountId": "ca399581-f13f-497e-9d76-8a9a4261b7b1",
+      "currency": "EUR,",
+      "baseAmount": 77440,
+      "fees": 91157,
+      "dueDate": "2020-05-19",
+      "status": "PAID",
+      "paidAt": "2020-07-04"
+    },
+    {
+      "id": "11555469-f703-408b-afef-cea0cc104fa0",
+      "accountId": "ca399581-f13f-497e-9d76-8a9a4261b7b1",
+      "currency": "EUR,",
+      "baseAmount": 68178,
+      "fees": 66515,
+      "dueDate": "2020-01-14",
+      "status": "PAID",
+      "paidAt": "2020-03-04"
+    },
+    {
+      "id": "71983bd4-970d-4d62-9768-1d1d24eb54b6",
+      "accountId": "9dce02d3-be5a-49a8-a740-c6d9a9560372",
+      "currency": "EUR,",
+      "baseAmount": 38246,
+      "fees": 10417,
+      "dueDate": "2020-03-27",
+      "status": "OPEN"
+    },
+    {
+      "id": "a6df1258-3492-4971-9732-2104f0946f22",
+      "accountId": "9dce02d3-be5a-49a8-a740-c6d9a9560372",
+      "currency": "EUR,",
+      "baseAmount": 40453,
+      "fees": 2409,
+      "dueDate": "2020-05-30",
+      "status": "OPEN"
+    },
+    {
+      "id": "dee1d97b-d548-4247-9078-cd5220bf383a",
+      "accountId": "9dce02d3-be5a-49a8-a740-c6d9a9560372",
+      "currency": "EUR,",
+      "baseAmount": 92459,
+      "fees": 49368,
+      "dueDate": "2020-01-11",
+      "status": "DELETED",
+      "deletedAt": "2020-02-06"
+    },
+    {
+      "id": "3fbc7227-bcf6-4691-a9e6-10d719c75355",
+      "accountId": "9dce02d3-be5a-49a8-a740-c6d9a9560372",
+      "currency": "EUR,",
+      "baseAmount": 38435,
+      "fees": 25241,
+      "dueDate": "2020-01-17",
+      "status": "PAID",
+      "paidAt": "2020-01-24"
+    },
+    {
+      "id": "1a1113a0-c456-4f01-bc99-7258dc6c79e4",
+      "accountId": "01fcbb8d-5442-4e42-b34b-05f6aca9d0cd",
+      "currency": "EUR,",
+      "baseAmount": 4084,
+      "fees": 63434,
+      "dueDate": "2020-04-30",
+      "status": "OPEN"
+    },
+    {
+      "id": "736ec688-e2d7-4966-a0e2-99da5b0f6cd6",
+      "accountId": "01fcbb8d-5442-4e42-b34b-05f6aca9d0cd",
+      "currency": "EUR,",
+      "baseAmount": 19380,
+      "fees": 1245,
+      "dueDate": "2020-01-31",
+      "status": "OPEN"
+    },
+    {
+      "id": "845208d2-8e47-46c2-ae91-a102cf8b2471",
+      "accountId": "01fcbb8d-5442-4e42-b34b-05f6aca9d0cd",
+      "currency": "EUR,",
+      "baseAmount": 46514,
+      "fees": 19086,
+      "dueDate": "2020-04-23",
+      "status": "PAID",
+      "paidAt": "2020-07-21"
+    },
+    {
+      "id": "38289444-c2ad-4f99-87e7-462b3291d14c",
+      "accountId": "01fcbb8d-5442-4e42-b34b-05f6aca9d0cd",
+      "currency": "EUR,",
+      "baseAmount": 92075,
+      "fees": 49780,
+      "dueDate": "2020-01-16",
+      "status": "PAID",
+      "paidAt": "2020-04-07"
+    },
+    {
+      "id": "772ea948-10c0-44a0-bb51-a11696eb2c21",
+      "accountId": "01fcbb8d-5442-4e42-b34b-05f6aca9d0cd",
+      "currency": "EUR,",
+      "baseAmount": 89337,
+      "fees": 69857,
+      "dueDate": "2020-03-26",
+      "status": "PAID",
+      "paidAt": "2020-04-01"
+    },
+    {
+      "id": "dba84e57-7386-49b9-bee7-2505aeed7738",
+      "accountId": "df4523d8-d8c8-4336-b555-fb8017808efb",
+      "currency": "EUR,",
+      "baseAmount": 37966,
+      "fees": 35697,
+      "dueDate": "2020-03-26",
+      "status": "DELETED",
+      "deletedAt": "2020-06-09"
+    },
+    {
+      "id": "98473614-1331-4791-95d3-75f65d568462",
+      "accountId": "df4523d8-d8c8-4336-b555-fb8017808efb",
+      "currency": "EUR,",
+      "baseAmount": 53528,
+      "fees": 85458,
+      "dueDate": "2020-02-14",
+      "status": "OPEN"
+    },
+    {
+      "id": "462045fd-fdc9-4cd8-8f25-f22831a4f77a",
+      "accountId": "df4523d8-d8c8-4336-b555-fb8017808efb",
+      "currency": "EUR,",
+      "baseAmount": 8311,
+      "fees": 48925,
+      "dueDate": "2020-02-25",
+      "status": "PAID",
+      "paidAt": "2020-04-23"
+    },
+    {
+      "id": "ce5c80bb-d493-4211-a689-caa22efd9f43",
+      "accountId": "df4523d8-d8c8-4336-b555-fb8017808efb",
+      "currency": "EUR,",
+      "baseAmount": 82437,
+      "fees": 5085,
+      "dueDate": "2020-01-11",
+      "status": "PAID",
+      "paidAt": "2020-02-02"
+    },
+    {
+      "id": "480f80d6-06c2-492e-ab5d-8b5429c6f327",
+      "accountId": "df4523d8-d8c8-4336-b555-fb8017808efb",
+      "currency": "EUR,",
+      "baseAmount": 15606,
+      "fees": 93001,
+      "dueDate": "2020-05-14",
+      "status": "DELETED",
+      "deletedAt": "2020-08-05"
+    },
+    {
+      "id": "49f4bb85-5523-44f1-acff-fa64ba4087c2",
+      "accountId": "47b8e32c-e8e8-4b7e-b3d4-895b6ab1b53d",
+      "currency": "EUR,",
+      "baseAmount": 92190,
+      "fees": 11030,
+      "dueDate": "2020-01-17",
+      "status": "DELETED",
+      "deletedAt": "2020-03-09"
+    },
+    {
+      "id": "4485b4e3-b3de-4c97-91e0-940d7a241006",
+      "accountId": "47b8e32c-e8e8-4b7e-b3d4-895b6ab1b53d",
+      "currency": "EUR,",
+      "baseAmount": 12148,
+      "fees": 13292,
+      "dueDate": "2020-03-01",
+      "status": "PAID",
+      "paidAt": "2020-05-02"
+    },
+    {
+      "id": "77e26022-8d03-47da-8531-b3842e51e778",
+      "accountId": "47b8e32c-e8e8-4b7e-b3d4-895b6ab1b53d",
+      "currency": "EUR,",
+      "baseAmount": 29935,
+      "fees": 84200,
+      "dueDate": "2020-02-28",
+      "status": "PAID",
+      "paidAt": "2020-04-27"
+    },
+    {
+      "id": "a3391b17-4132-45d3-94e2-98130ff28d73",
+      "accountId": "47b8e32c-e8e8-4b7e-b3d4-895b6ab1b53d",
+      "currency": "EUR,",
+      "baseAmount": 93146,
+      "fees": 47489,
+      "dueDate": "2020-01-25",
+      "status": "DELETED",
+      "deletedAt": "2020-02-21"
+    },
+    {
+      "id": "1e3d9bd2-fa6f-4fb6-89c3-144c12a862c9",
+      "accountId": "47b8e32c-e8e8-4b7e-b3d4-895b6ab1b53d",
+      "currency": "EUR,",
+      "baseAmount": 58801,
+      "fees": 41687,
+      "dueDate": "2020-02-04",
+      "status": "OPEN"
+    },
+    {
+      "id": "dd7d48e3-6c26-4440-aa18-943c311b09ac",
+      "accountId": "47b8e32c-e8e8-4b7e-b3d4-895b6ab1b53d",
+      "currency": "EUR,",
+      "baseAmount": 93131,
+      "fees": 83296,
+      "dueDate": "2020-02-11",
+      "status": "DELETED",
+      "deletedAt": "2020-02-14"
+    },
+    {
+      "id": "8e8a286a-c57c-4b2e-b05a-34d7b66b607c",
+      "accountId": "7d39ea37-9df0-442e-827f-6a14b0f36480",
+      "currency": "EUR,",
+      "baseAmount": 10997,
+      "fees": 69335,
+      "dueDate": "2020-03-31",
+      "status": "DELETED",
+      "deletedAt": "2020-04-09"
+    },
+    {
+      "id": "d41d4d4f-d4f9-483f-8d5b-b3a30defb019",
+      "accountId": "7d39ea37-9df0-442e-827f-6a14b0f36480",
+      "currency": "EUR,",
+      "baseAmount": 53676,
+      "fees": 47743,
+      "dueDate": "2020-04-03",
+      "status": "DELETED",
+      "deletedAt": "2020-05-29"
+    },
+    {
+      "id": "dd7be581-8823-44eb-b2a0-174c50aee749",
+      "accountId": "7d39ea37-9df0-442e-827f-6a14b0f36480",
+      "currency": "EUR,",
+      "baseAmount": 36717,
+      "fees": 3500,
+      "dueDate": "2020-04-17",
+      "status": "DELETED",
+      "deletedAt": "2020-07-14"
+    },
+    {
+      "id": "ff886ef9-cb14-45aa-a777-60196c7c3697",
+      "accountId": "7d39ea37-9df0-442e-827f-6a14b0f36480",
+      "currency": "EUR,",
+      "baseAmount": 68879,
+      "fees": 51637,
+      "dueDate": "2020-02-25",
+      "status": "DELETED",
+      "deletedAt": "2020-02-28"
+    },
+    {
+      "id": "3fa8c5a5-5658-4fe5-94e8-08a293753081",
+      "accountId": "7d39ea37-9df0-442e-827f-6a14b0f36480",
+      "currency": "EUR,",
+      "baseAmount": 97647,
+      "fees": 71615,
+      "dueDate": "2020-03-09",
+      "status": "PAID",
+      "paidAt": "2020-04-11"
+    },
+    {
+      "id": "93a38bc9-7aac-4582-9a63-be0c9ddf7e6c",
+      "accountId": "7d39ea37-9df0-442e-827f-6a14b0f36480",
+      "currency": "EUR,",
+      "baseAmount": 25596,
+      "fees": 67751,
+      "dueDate": "2020-02-15",
+      "status": "OPEN"
+    },
+    {
+      "id": "30331d5b-96b3-4b94-8070-ccc91c8f48fa",
+      "accountId": "7d39ea37-9df0-442e-827f-6a14b0f36480",
+      "currency": "EUR,",
+      "baseAmount": 52999,
+      "fees": 29007,
+      "dueDate": "2020-04-16",
+      "status": "DELETED",
+      "deletedAt": "2020-05-05"
+    },
+    {
+      "id": "37ba2eab-8570-4619-9b02-39f54b1e8791",
+      "accountId": "2268ca26-0640-40f8-acb0-b19a8f744c8d",
+      "currency": "EUR,",
+      "baseAmount": 99348,
+      "fees": 13713,
+      "dueDate": "2020-05-07",
+      "status": "OPEN"
+    },
+    {
+      "id": "293bb70f-6072-4023-96d1-d5b205c89b2b",
+      "accountId": "2268ca26-0640-40f8-acb0-b19a8f744c8d",
+      "currency": "EUR,",
+      "baseAmount": 10967,
+      "fees": 91758,
+      "dueDate": "2020-04-09",
+      "status": "DELETED",
+      "deletedAt": "2020-05-16"
+    },
+    {
+      "id": "ce1c8542-b70a-4d94-9ea1-0bd447dde917",
+      "accountId": "689677af-0844-4043-8cfc-43e2e97bafa2",
+      "currency": "EUR,",
+      "baseAmount": 28095,
+      "fees": 89886,
+      "dueDate": "2020-03-20",
+      "status": "PAID",
+      "paidAt": "2020-06-18"
+    },
+    {
+      "id": "e6b415cf-7313-41e3-ba4c-cfbdc9ee2c9a",
+      "accountId": "689677af-0844-4043-8cfc-43e2e97bafa2",
+      "currency": "EUR,",
+      "baseAmount": 30833,
+      "fees": 42117,
+      "dueDate": "2020-01-30",
+      "status": "DELETED",
+      "deletedAt": "2020-04-27"
+    },
+    {
+      "id": "914f7b0d-5382-4594-9f95-23b2794887f2",
+      "accountId": "689677af-0844-4043-8cfc-43e2e97bafa2",
+      "currency": "EUR,",
+      "baseAmount": 97224,
+      "fees": 76540,
+      "dueDate": "2020-01-02",
+      "status": "OPEN"
+    },
+    {
+      "id": "0b4dcfc9-8e6b-44e0-bc2c-d47bace8e213",
+      "accountId": "689677af-0844-4043-8cfc-43e2e97bafa2",
+      "currency": "EUR,",
+      "baseAmount": 2887,
+      "fees": 80035,
+      "dueDate": "2020-03-14",
+      "status": "DELETED",
+      "deletedAt": "2020-04-27"
+    },
+    {
+      "id": "24bc6ff1-70f0-429f-95db-8b467529ba8f",
+      "accountId": "689677af-0844-4043-8cfc-43e2e97bafa2",
+      "currency": "EUR,",
+      "baseAmount": 19227,
+      "fees": 40052,
+      "dueDate": "2020-04-17",
+      "status": "PAID",
+      "paidAt": "2020-07-10"
+    },
+    {
+      "id": "143e5f7a-c840-4a5c-9213-72f7f830638d",
+      "accountId": "87fae503-9164-46cd-b64c-985010d57d4d",
+      "currency": "EUR,",
+      "baseAmount": 67347,
+      "fees": 49141,
+      "dueDate": "2020-05-19",
+      "status": "DELETED",
+      "deletedAt": "2020-06-24"
+    },
+    {
+      "id": "05567eb4-e74c-4cb4-8ad6-8059ed29dbd6",
+      "accountId": "87fae503-9164-46cd-b64c-985010d57d4d",
+      "currency": "EUR,",
+      "baseAmount": 10002,
+      "fees": 6412,
+      "dueDate": "2020-04-18",
+      "status": "OPEN"
+    },
+    {
+      "id": "56c9fd7a-eb07-4527-9148-72ba94c58184",
+      "accountId": "87fae503-9164-46cd-b64c-985010d57d4d",
+      "currency": "EUR,",
+      "baseAmount": 16219,
+      "fees": 85042,
+      "dueDate": "2020-01-09",
+      "status": "PAID",
+      "paidAt": "2020-02-16"
+    },
+    {
+      "id": "1015d2f0-6741-45cf-9b47-82d20f7ec4c7",
+      "accountId": "87fae503-9164-46cd-b64c-985010d57d4d",
+      "currency": "EUR,",
+      "baseAmount": 2396,
+      "fees": 1703,
+      "dueDate": "2020-03-26",
+      "status": "OPEN"
+    },
+    {
+      "id": "f4436bfe-a5f4-4e99-be41-eb8edbd51480",
+      "accountId": "87fae503-9164-46cd-b64c-985010d57d4d",
+      "currency": "EUR,",
+      "baseAmount": 40327,
+      "fees": 33710,
+      "dueDate": "2020-05-09",
+      "status": "PAID",
+      "paidAt": "2020-06-26"
+    },
+    {
+      "id": "19067ffc-0273-400c-a3d8-a916e69ae3ee",
+      "accountId": "87fae503-9164-46cd-b64c-985010d57d4d",
+      "currency": "EUR,",
+      "baseAmount": 71344,
+      "fees": 5218,
+      "dueDate": "2020-05-16",
+      "status": "PAID",
+      "paidAt": "2020-06-13"
+    },
+    {
+      "id": "357d15a5-617f-4afd-854d-8b3ee00cd1ff",
+      "accountId": "87fae503-9164-46cd-b64c-985010d57d4d",
+      "currency": "EUR,",
+      "baseAmount": 87023,
+      "fees": 99030,
+      "dueDate": "2020-01-07",
+      "status": "PAID",
+      "paidAt": "2020-01-21"
+    },
+    {
+      "id": "c53a0a63-f7d3-4114-807a-6b00f0d38762",
+      "accountId": "87fae503-9164-46cd-b64c-985010d57d4d",
+      "currency": "EUR,",
+      "baseAmount": 23851,
+      "fees": 55659,
+      "dueDate": "2020-05-31",
+      "status": "OPEN"
+    },
+    {
+      "id": "3493fc5f-fc27-4ea6-883e-ccd5e572b1b6",
+      "accountId": "87fae503-9164-46cd-b64c-985010d57d4d",
+      "currency": "EUR,",
+      "baseAmount": 92682,
+      "fees": 55779,
+      "dueDate": "2020-01-03",
+      "status": "DELETED",
+      "deletedAt": "2020-03-10"
+    },
+    {
+      "id": "73be1095-0ab4-48c7-bfbb-7ad53d4ce428",
+      "accountId": "87fae503-9164-46cd-b64c-985010d57d4d",
+      "currency": "EUR,",
+      "baseAmount": 2800,
+      "fees": 98566,
+      "dueDate": "2020-04-30",
+      "status": "DELETED",
+      "deletedAt": "2020-07-23"
+    },
+    {
+      "id": "dd98662f-2378-4cc6-b1c0-68a19a09cd98",
+      "accountId": "12c8dba5-9157-4b26-a376-0022fe96f5d0",
+      "currency": "EUR,",
+      "baseAmount": 59895,
+      "fees": 24274,
+      "dueDate": "2020-04-02",
+      "status": "OPEN"
+    },
+    {
+      "id": "a4b8ce03-ab8f-4da1-94cf-87551a3f344e",
+      "accountId": "12c8dba5-9157-4b26-a376-0022fe96f5d0",
+      "currency": "EUR,",
+      "baseAmount": 28550,
+      "fees": 20125,
+      "dueDate": "2020-01-02",
+      "status": "DELETED",
+      "deletedAt": "2020-02-06"
+    },
+    {
+      "id": "91c2b399-e9c3-44bd-b7f6-d631f5fdd95f",
+      "accountId": "12c8dba5-9157-4b26-a376-0022fe96f5d0",
+      "currency": "EUR,",
+      "baseAmount": 14770,
+      "fees": 19874,
+      "dueDate": "2020-03-05",
+      "status": "OPEN"
+    },
+    {
+      "id": "73428c29-390d-4921-9e99-6410e5d1d42c",
+      "accountId": "9aa0682b-6113-49eb-8d37-d77e5822c633",
+      "currency": "EUR,",
+      "baseAmount": 13157,
+      "fees": 16046,
+      "dueDate": "2020-03-07",
+      "status": "OPEN"
+    },
+    {
+      "id": "845a408b-2289-46ce-80e9-3abe3c0fcc28",
+      "accountId": "9aa0682b-6113-49eb-8d37-d77e5822c633",
+      "currency": "EUR,",
+      "baseAmount": 63262,
+      "fees": 79445,
+      "dueDate": "2020-05-14",
+      "status": "OPEN"
+    },
+    {
+      "id": "7d5a1d9d-976e-4819-b11e-a1d7bef6de35",
+      "accountId": "9aa0682b-6113-49eb-8d37-d77e5822c633",
+      "currency": "EUR,",
+      "baseAmount": 78722,
+      "fees": 30870,
+      "dueDate": "2020-04-26",
+      "status": "DELETED",
+      "deletedAt": "2020-06-08"
+    },
+    {
+      "id": "570e056a-84f3-4372-854f-2b2fda0beb3f",
+      "accountId": "9aa0682b-6113-49eb-8d37-d77e5822c633",
+      "currency": "EUR,",
+      "baseAmount": 12921,
+      "fees": 52751,
+      "dueDate": "2020-03-06",
+      "status": "PAID",
+      "paidAt": "2020-03-14"
+    },
+    {
+      "id": "982d3b5e-365f-45b1-ad93-5b0508797064",
+      "accountId": "9aa0682b-6113-49eb-8d37-d77e5822c633",
+      "currency": "EUR,",
+      "baseAmount": 33465,
+      "fees": 14507,
+      "dueDate": "2020-01-07",
+      "status": "PAID",
+      "paidAt": "2020-03-01"
+    },
+    {
+      "id": "d962259a-b837-49e3-b705-dde45f37efbe",
+      "accountId": "9aa0682b-6113-49eb-8d37-d77e5822c633",
+      "currency": "EUR,",
+      "baseAmount": 84152,
+      "fees": 48516,
+      "dueDate": "2020-05-26",
+      "status": "PAID",
+      "paidAt": "2020-06-01"
+    },
+    {
+      "id": "6071ee2e-4c23-4ef5-8880-0d71e3237cfc",
+      "accountId": "9aa0682b-6113-49eb-8d37-d77e5822c633",
+      "currency": "EUR,",
+      "baseAmount": 14984,
+      "fees": 18456,
+      "dueDate": "2020-01-08",
+      "status": "PAID",
+      "paidAt": "2020-04-06"
+    },
+    {
+      "id": "8cb028d7-743c-409a-a5d8-7d464beceb89",
+      "accountId": "9aa0682b-6113-49eb-8d37-d77e5822c633",
+      "currency": "EUR,",
+      "baseAmount": 24237,
+      "fees": 28886,
+      "dueDate": "2020-03-30",
+      "status": "DELETED",
+      "deletedAt": "2020-04-08"
+    },
+    {
+      "id": "f48a5cf6-1606-4568-915a-70f3a76580f7",
+      "accountId": "9aa0682b-6113-49eb-8d37-d77e5822c633",
+      "currency": "EUR,",
+      "baseAmount": 69144,
+      "fees": 66154,
+      "dueDate": "2020-04-25",
+      "status": "PAID",
+      "paidAt": "2020-05-30"
+    },
+    {
+      "id": "21f94bc3-bc1e-4a08-9b53-233d34891c87",
+      "accountId": "99109677-5946-43dc-b27f-27ef09b71247",
+      "currency": "EUR,",
+      "baseAmount": 77661,
+      "fees": 19021,
+      "dueDate": "2020-01-05",
+      "status": "PAID",
+      "paidAt": "2020-02-01"
+    },
+    {
+      "id": "4b09c3a0-98f2-4d6b-8d57-e4700b80a4d1",
+      "accountId": "99109677-5946-43dc-b27f-27ef09b71247",
+      "currency": "EUR,",
+      "baseAmount": 65102,
+      "fees": 55032,
+      "dueDate": "2020-04-13",
+      "status": "PAID",
+      "paidAt": "2020-06-03"
+    },
+    {
+      "id": "9dcb8554-9fbf-41c8-a26f-47c65ac925e1",
+      "accountId": "99109677-5946-43dc-b27f-27ef09b71247",
+      "currency": "EUR,",
+      "baseAmount": 37818,
+      "fees": 65585,
+      "dueDate": "2020-05-29",
+      "status": "OPEN"
+    },
+    {
+      "id": "586a15f9-5dda-4b6d-9973-f6f4943d922f",
+      "accountId": "99109677-5946-43dc-b27f-27ef09b71247",
+      "currency": "EUR,",
+      "baseAmount": 19094,
+      "fees": 75457,
+      "dueDate": "2020-04-14",
+      "status": "DELETED",
+      "deletedAt": "2020-07-02"
+    },
+    {
+      "id": "4e34d0dc-b072-4ec4-aa10-b90936fac901",
+      "accountId": "99109677-5946-43dc-b27f-27ef09b71247",
+      "currency": "EUR,",
+      "baseAmount": 82182,
+      "fees": 88765,
+      "dueDate": "2020-05-10",
+      "status": "DELETED",
+      "deletedAt": "2020-06-26"
+    },
+    {
+      "id": "130a7dab-ca75-45ce-8034-e5bbbe0f38d8",
+      "accountId": "65c1c6c6-975d-42a0-b7b6-e3140f16d2c2",
+      "currency": "EUR,",
+      "baseAmount": 69784,
+      "fees": 89592,
+      "dueDate": "2020-02-10",
+      "status": "OPEN"
+    },
+    {
+      "id": "59028363-c507-490f-be2f-0fb3b8e48c96",
+      "accountId": "65c1c6c6-975d-42a0-b7b6-e3140f16d2c2",
+      "currency": "EUR,",
+      "baseAmount": 16953,
+      "fees": 95105,
+      "dueDate": "2020-03-02",
+      "status": "PAID",
+      "paidAt": "2020-05-08"
+    },
+    {
+      "id": "9d3b474b-5acd-47bb-bfe5-1759c1743679",
+      "accountId": "65c1c6c6-975d-42a0-b7b6-e3140f16d2c2",
+      "currency": "EUR,",
+      "baseAmount": 10691,
+      "fees": 27565,
+      "dueDate": "2020-02-17",
+      "status": "PAID",
+      "paidAt": "2020-05-01"
+    },
+    {
+      "id": "2df4b9b9-f4b9-4153-ab18-dfcc36899e6d",
+      "accountId": "65c1c6c6-975d-42a0-b7b6-e3140f16d2c2",
+      "currency": "EUR,",
+      "baseAmount": 84435,
+      "fees": 47006,
+      "dueDate": "2020-05-08",
+      "status": "PAID",
+      "paidAt": "2020-07-18"
+    },
+    {
+      "id": "b1efb44e-3441-475e-998c-3f7ee20e42bb",
+      "accountId": "65c1c6c6-975d-42a0-b7b6-e3140f16d2c2",
+      "currency": "EUR,",
+      "baseAmount": 31933,
+      "fees": 61898,
+      "dueDate": "2020-05-24",
+      "status": "DELETED",
+      "deletedAt": "2020-08-07"
+    },
+    {
+      "id": "e092c074-cd04-4eae-9b21-a48409ba99a0",
+      "accountId": "65c1c6c6-975d-42a0-b7b6-e3140f16d2c2",
+      "currency": "EUR,",
+      "baseAmount": 42407,
+      "fees": 81543,
+      "dueDate": "2020-02-28",
+      "status": "DELETED",
+      "deletedAt": "2020-03-27"
+    },
+    {
+      "id": "a7330623-aaee-43ce-af50-5fe9370fdcec",
+      "accountId": "e798ea27-8fe1-4feb-b3e0-5765f3b956ad",
+      "currency": "EUR,",
+      "baseAmount": 10994,
+      "fees": 54359,
+      "dueDate": "2020-05-04",
+      "status": "OPEN"
+    },
+    {
+      "id": "d63e9fa2-a7ff-4955-8f39-6e34bc0a36d5",
+      "accountId": "e798ea27-8fe1-4feb-b3e0-5765f3b956ad",
+      "currency": "EUR,",
+      "baseAmount": 65637,
+      "fees": 74214,
+      "dueDate": "2020-01-21",
+      "status": "DELETED",
+      "deletedAt": "2020-01-26"
+    },
+    {
+      "id": "6156ee4c-a8e4-404c-b7fc-cc1e17451510",
+      "accountId": "e798ea27-8fe1-4feb-b3e0-5765f3b956ad",
+      "currency": "EUR,",
+      "baseAmount": 93126,
+      "fees": 48570,
+      "dueDate": "2020-02-11",
+      "status": "PAID",
+      "paidAt": "2020-04-23"
+    },
+    {
+      "id": "ab442819-23e3-4942-b91c-7d2d4a42418c",
+      "accountId": "e798ea27-8fe1-4feb-b3e0-5765f3b956ad",
+      "currency": "EUR,",
+      "baseAmount": 29237,
+      "fees": 65983,
+      "dueDate": "2020-03-14",
+      "status": "DELETED",
+      "deletedAt": "2020-05-02"
+    },
+    {
+      "id": "f09b5f37-9807-47b6-adf6-98f7db19c0ed",
+      "accountId": "e798ea27-8fe1-4feb-b3e0-5765f3b956ad",
+      "currency": "EUR,",
+      "baseAmount": 56392,
+      "fees": 51935,
+      "dueDate": "2020-02-17",
+      "status": "PAID",
+      "paidAt": "2020-02-21"
+    },
+    {
+      "id": "a3a0766e-c54d-4834-9016-54ce2649014a",
+      "accountId": "e798ea27-8fe1-4feb-b3e0-5765f3b956ad",
+      "currency": "EUR,",
+      "baseAmount": 99146,
+      "fees": 9467,
+      "dueDate": "2020-05-29",
+      "status": "PAID",
+      "paidAt": "2020-06-26"
+    },
+    {
+      "id": "dffbb303-bcc4-4e14-9798-350b66f0a363",
+      "accountId": "e798ea27-8fe1-4feb-b3e0-5765f3b956ad",
+      "currency": "EUR,",
+      "baseAmount": 59786,
+      "fees": 20917,
+      "dueDate": "2020-04-14",
+      "status": "OPEN"
+    },
+    {
+      "id": "0e4639ff-ae20-46d3-b8a3-289f9c32dd28",
+      "accountId": "e798ea27-8fe1-4feb-b3e0-5765f3b956ad",
+      "currency": "EUR,",
+      "baseAmount": 46320,
+      "fees": 17397,
+      "dueDate": "2020-02-12",
+      "status": "OPEN"
+    },
+    {
+      "id": "db2f9228-659a-4239-8cf7-3b15959c855a",
+      "accountId": "dd7d0504-ba5a-4f7c-9526-e53dbb4f4620",
+      "currency": "EUR,",
+      "baseAmount": 98871,
+      "fees": 65529,
+      "dueDate": "2020-05-20",
+      "status": "OPEN"
+    },
+    {
+      "id": "2c76fc77-fc4a-43a5-bfc8-822e34c42cd7",
+      "accountId": "dd7d0504-ba5a-4f7c-9526-e53dbb4f4620",
+      "currency": "EUR,",
+      "baseAmount": 74077,
+      "fees": 26495,
+      "dueDate": "2020-03-15",
+      "status": "PAID",
+      "paidAt": "2020-04-16"
+    },
+    {
+      "id": "91458b03-2222-499c-af42-de28b199b03c",
+      "accountId": "c4aec04e-1883-4165-9fd2-c9838ffa7e68",
+      "currency": "EUR,",
+      "baseAmount": 6276,
+      "fees": 66941,
+      "dueDate": "2020-01-27",
+      "status": "OPEN"
+    },
+    {
+      "id": "9ce91838-7cac-482e-a38d-31c8fffd2668",
+      "accountId": "c4aec04e-1883-4165-9fd2-c9838ffa7e68",
+      "currency": "EUR,",
+      "baseAmount": 31919,
+      "fees": 56095,
+      "dueDate": "2020-01-28",
+      "status": "OPEN"
+    },
+    {
+      "id": "dd0fb8f3-3fda-4d75-948b-af378ef1727b",
+      "accountId": "c4aec04e-1883-4165-9fd2-c9838ffa7e68",
+      "currency": "EUR,",
+      "baseAmount": 14887,
+      "fees": 16832,
+      "dueDate": "2020-05-16",
+      "status": "OPEN"
+    },
+    {
+      "id": "c7454ed4-475e-4f33-9706-86959a3e3dd8",
+      "accountId": "c4aec04e-1883-4165-9fd2-c9838ffa7e68",
+      "currency": "EUR,",
+      "baseAmount": 73552,
+      "fees": 55632,
+      "dueDate": "2020-04-05",
+      "status": "DELETED",
+      "deletedAt": "2020-06-25"
+    },
+    {
+      "id": "dee3c159-d270-487f-9d73-4fcb62b52017",
+      "accountId": "c4aec04e-1883-4165-9fd2-c9838ffa7e68",
+      "currency": "EUR,",
+      "baseAmount": 75948,
+      "fees": 96343,
+      "dueDate": "2020-05-26",
+      "status": "PAID",
+      "paidAt": "2020-07-03"
+    },
+    {
+      "id": "201241a9-9eb2-4ff9-b70c-b52a6c697a25",
+      "accountId": "c4aec04e-1883-4165-9fd2-c9838ffa7e68",
+      "currency": "EUR,",
+      "baseAmount": 87233,
+      "fees": 54965,
+      "dueDate": "2020-05-22",
+      "status": "DELETED",
+      "deletedAt": "2020-07-23"
+    },
+    {
+      "id": "39b3924c-cf3f-4a0a-b84f-4b996972ea2a",
+      "accountId": "c4aec04e-1883-4165-9fd2-c9838ffa7e68",
+      "currency": "EUR,",
+      "baseAmount": 70314,
+      "fees": 31541,
+      "dueDate": "2020-04-08",
+      "status": "PAID",
+      "paidAt": "2020-06-24"
+    },
+    {
+      "id": "6ef86427-9a97-491d-a3de-7151098245f3",
+      "accountId": "3355213b-fbd9-45b5-8da1-be336b6d5f61",
+      "currency": "EUR,",
+      "baseAmount": 71886,
+      "fees": 2813,
+      "dueDate": "2020-03-22",
+      "status": "DELETED",
+      "deletedAt": "2020-05-15"
+    },
+    {
+      "id": "4f70ac09-bd1e-4e09-a03f-b6b31d6295af",
+      "accountId": "ba8eb9ab-3cc0-4a17-a170-8c37f35cd745",
+      "currency": "EUR,",
+      "baseAmount": 75564,
+      "fees": 53558,
+      "dueDate": "2020-05-21",
+      "status": "DELETED",
+      "deletedAt": "2020-06-11"
+    },
+    {
+      "id": "0557f4b3-41a8-4673-859e-435f6b1ccd02",
+      "accountId": "ba8eb9ab-3cc0-4a17-a170-8c37f35cd745",
+      "currency": "EUR,",
+      "baseAmount": 9487,
+      "fees": 88146,
+      "dueDate": "2020-03-13",
+      "status": "DELETED",
+      "deletedAt": "2020-06-05"
+    },
+    {
+      "id": "91264064-704e-4c85-b152-021f4c21391b",
+      "accountId": "ba8eb9ab-3cc0-4a17-a170-8c37f35cd745",
+      "currency": "EUR,",
+      "baseAmount": 79860,
+      "fees": 63181,
+      "dueDate": "2020-02-04",
+      "status": "OPEN"
+    },
+    {
+      "id": "a56f50f8-e48b-4def-809b-e5ecaee2c9ad",
+      "accountId": "ba8eb9ab-3cc0-4a17-a170-8c37f35cd745",
+      "currency": "EUR,",
+      "baseAmount": 81295,
+      "fees": 66500,
+      "dueDate": "2020-04-04",
+      "status": "OPEN"
+    },
+    {
+      "id": "a53f175c-a06d-4d49-8457-398ca01b1038",
+      "accountId": "ba8eb9ab-3cc0-4a17-a170-8c37f35cd745",
+      "currency": "EUR,",
+      "baseAmount": 46301,
+      "fees": 41399,
+      "dueDate": "2020-05-21",
+      "status": "PAID",
+      "paidAt": "2020-05-26"
+    },
+    {
+      "id": "be35c886-b863-42d4-96b1-0adbf01c3121",
+      "accountId": "ba8eb9ab-3cc0-4a17-a170-8c37f35cd745",
+      "currency": "EUR,",
+      "baseAmount": 37620,
+      "fees": 29249,
+      "dueDate": "2020-04-14",
+      "status": "PAID",
+      "paidAt": "2020-04-27"
+    },
+    {
+      "id": "48bd728d-a0bb-4e83-bf95-fd72fe8c881d",
+      "accountId": "11e05350-592c-4db2-8547-7c4627dcbf2e",
+      "currency": "EUR,",
+      "baseAmount": 60901,
+      "fees": 82104,
+      "dueDate": "2020-02-20",
+      "status": "DELETED",
+      "deletedAt": "2020-05-11"
+    },
+    {
+      "id": "9c4ce8a6-a264-4e13-ad32-ef8b41d34a10",
+      "accountId": "11e05350-592c-4db2-8547-7c4627dcbf2e",
+      "currency": "EUR,",
+      "baseAmount": 88346,
+      "fees": 13049,
+      "dueDate": "2020-04-09",
+      "status": "OPEN"
+    },
+    {
+      "id": "18d53f60-73fc-48bb-8325-c637f636a4ae",
+      "accountId": "11e05350-592c-4db2-8547-7c4627dcbf2e",
+      "currency": "EUR,",
+      "baseAmount": 25868,
+      "fees": 89727,
+      "dueDate": "2020-03-03",
+      "status": "DELETED",
+      "deletedAt": "2020-05-10"
+    },
+    {
+      "id": "932cf87c-7a61-4254-b9a8-03128634419f",
+      "accountId": "11e05350-592c-4db2-8547-7c4627dcbf2e",
+      "currency": "EUR,",
+      "baseAmount": 68496,
+      "fees": 78299,
+      "dueDate": "2020-04-14",
+      "status": "DELETED",
+      "deletedAt": "2020-05-27"
+    },
+    {
+      "id": "c3b79e24-e956-4a64-af42-ede49ac5443c",
+      "accountId": "bf677fc6-2715-4d9c-863c-46950b2c1944",
+      "currency": "EUR,",
+      "baseAmount": 16050,
+      "fees": 72762,
+      "dueDate": "2020-02-12",
+      "status": "PAID",
+      "paidAt": "2020-03-25"
+    },
+    {
+      "id": "b33ad038-37e1-4246-909e-f99103f241cb",
+      "accountId": "bf677fc6-2715-4d9c-863c-46950b2c1944",
+      "currency": "EUR,",
+      "baseAmount": 84930,
+      "fees": 30465,
+      "dueDate": "2020-05-27",
+      "status": "OPEN"
+    },
+    {
+      "id": "11569762-c37a-4d4a-a919-5e42443cdb91",
+      "accountId": "bf677fc6-2715-4d9c-863c-46950b2c1944",
+      "currency": "EUR,",
+      "baseAmount": 24265,
+      "fees": 74957,
+      "dueDate": "2020-02-28",
+      "status": "PAID",
+      "paidAt": "2020-05-11"
+    },
+    {
+      "id": "c34dff6e-40c0-4076-b2ec-24bd6ee1490b",
+      "accountId": "bf677fc6-2715-4d9c-863c-46950b2c1944",
+      "currency": "EUR,",
+      "baseAmount": 86319,
+      "fees": 27264,
+      "dueDate": "2020-05-30",
+      "status": "OPEN"
+    },
+    {
+      "id": "6a2fec8f-3f74-44bf-acc2-541bc7a884c5",
+      "accountId": "bf677fc6-2715-4d9c-863c-46950b2c1944",
+      "currency": "EUR,",
+      "baseAmount": 75188,
+      "fees": 7093,
+      "dueDate": "2020-03-05",
+      "status": "PAID",
+      "paidAt": "2020-03-20"
+    },
+    {
+      "id": "d249a0b2-0c1a-45e4-9b7f-f5a907cc0ca4",
+      "accountId": "e8da1ad6-b675-4750-b86c-e209053bb0d2",
+      "currency": "EUR,",
+      "baseAmount": 14845,
+      "fees": 34275,
+      "dueDate": "2020-05-08",
+      "status": "OPEN"
+    },
+    {
+      "id": "e738c735-dd5d-4119-ac01-48f730422fc6",
+      "accountId": "e8da1ad6-b675-4750-b86c-e209053bb0d2",
+      "currency": "EUR,",
+      "baseAmount": 48352,
+      "fees": 97563,
+      "dueDate": "2020-03-19",
+      "status": "DELETED",
+      "deletedAt": "2020-06-15"
+    },
+    {
+      "id": "34aee30a-a771-4912-bf48-77424e87c443",
+      "accountId": "e8da1ad6-b675-4750-b86c-e209053bb0d2",
+      "currency": "EUR,",
+      "baseAmount": 69215,
+      "fees": 3921,
+      "dueDate": "2020-02-21",
+      "status": "PAID",
+      "paidAt": "2020-05-14"
+    },
+    {
+      "id": "2005c295-791c-49d3-b676-cb27611b79cc",
+      "accountId": "e8da1ad6-b675-4750-b86c-e209053bb0d2",
+      "currency": "EUR,",
+      "baseAmount": 85585,
+      "fees": 65608,
+      "dueDate": "2020-02-10",
+      "status": "PAID",
+      "paidAt": "2020-03-24"
+    },
+    {
+      "id": "9bdb3fa6-0105-4a3c-8595-bab41e4ec3ab",
+      "accountId": "e8da1ad6-b675-4750-b86c-e209053bb0d2",
+      "currency": "EUR,",
+      "baseAmount": 98176,
+      "fees": 25517,
+      "dueDate": "2020-03-01",
+      "status": "DELETED",
+      "deletedAt": "2020-03-06"
+    },
+    {
+      "id": "826c6448-2b90-408d-8f4b-bc4f874a291c",
+      "accountId": "e8da1ad6-b675-4750-b86c-e209053bb0d2",
+      "currency": "EUR,",
+      "baseAmount": 91330,
+      "fees": 40147,
+      "dueDate": "2020-04-11",
+      "status": "OPEN"
+    },
+    {
+      "id": "0fcc7185-933e-4410-acd1-8e7fc5bae4b1",
+      "accountId": "e8da1ad6-b675-4750-b86c-e209053bb0d2",
+      "currency": "EUR,",
+      "baseAmount": 72787,
+      "fees": 51709,
+      "dueDate": "2020-05-28",
+      "status": "OPEN"
+    },
+    {
+      "id": "f58211c1-b9bb-4666-8b91-112ce97b7d3a",
+      "accountId": "0b277e07-b840-4790-85ab-88ea485152fb",
+      "currency": "EUR,",
+      "baseAmount": 18051,
+      "fees": 85291,
+      "dueDate": "2020-01-11",
+      "status": "PAID",
+      "paidAt": "2020-02-22"
+    },
+    {
+      "id": "581bad8d-dbd8-4663-9ea4-3eddb5123802",
+      "accountId": "0b277e07-b840-4790-85ab-88ea485152fb",
+      "currency": "EUR,",
+      "baseAmount": 39397,
+      "fees": 54640,
+      "dueDate": "2020-05-07",
+      "status": "OPEN"
+    },
+    {
+      "id": "a87d6750-f3fe-4a9a-b320-16225adfc3d8",
+      "accountId": "0b277e07-b840-4790-85ab-88ea485152fb",
+      "currency": "EUR,",
+      "baseAmount": 26849,
+      "fees": 65332,
+      "dueDate": "2020-04-28",
+      "status": "OPEN"
+    },
+    {
+      "id": "6292f15d-4978-4db8-bad0-96e18e9f6e26",
+      "accountId": "0b277e07-b840-4790-85ab-88ea485152fb",
+      "currency": "EUR,",
+      "baseAmount": 5462,
+      "fees": 15435,
+      "dueDate": "2020-03-04",
+      "status": "PAID",
+      "paidAt": "2020-03-29"
+    },
+    {
+      "id": "71b29144-8cfd-45f0-8e4b-d1a3c47a2616",
+      "accountId": "0b277e07-b840-4790-85ab-88ea485152fb",
+      "currency": "EUR,",
+      "baseAmount": 50828,
+      "fees": 48887,
+      "dueDate": "2020-03-15",
+      "status": "DELETED",
+      "deletedAt": "2020-06-08"
+    },
+    {
+      "id": "ebeb76ef-0aee-462e-9faa-1c3d7ff9efed",
+      "accountId": "0b277e07-b840-4790-85ab-88ea485152fb",
+      "currency": "EUR,",
+      "baseAmount": 17530,
+      "fees": 90571,
+      "dueDate": "2020-04-16",
+      "status": "DELETED",
+      "deletedAt": "2020-05-01"
+    },
+    {
+      "id": "fe5eab5c-49f7-4fa5-a99a-bb268982dcc1",
+      "accountId": "0b277e07-b840-4790-85ab-88ea485152fb",
+      "currency": "EUR,",
+      "baseAmount": 83989,
+      "fees": 49323,
+      "dueDate": "2020-03-31",
+      "status": "PAID",
+      "paidAt": "2020-04-15"
+    },
+    {
+      "id": "c628f957-455f-4b81-a50d-2236a0622822",
+      "accountId": "0b277e07-b840-4790-85ab-88ea485152fb",
+      "currency": "EUR,",
+      "baseAmount": 91238,
+      "fees": 52954,
+      "dueDate": "2020-01-20",
+      "status": "DELETED",
+      "deletedAt": "2020-01-25"
+    },
+    {
+      "id": "8a0dfa3a-91b9-4653-a7ac-28b3e2b21f7a",
+      "accountId": "0b277e07-b840-4790-85ab-88ea485152fb",
+      "currency": "EUR,",
+      "baseAmount": 1094,
+      "fees": 19341,
+      "dueDate": "2020-03-09",
+      "status": "OPEN"
+    },
+    {
+      "id": "f747e87b-26a1-4e57-b0f3-63957b0e2e1e",
+      "accountId": "98d5ccfe-38ad-4317-b3cb-6c44b19b03c9",
+      "currency": "EUR,",
+      "baseAmount": 40686,
+      "fees": 64418,
+      "dueDate": "2020-04-15",
+      "status": "PAID",
+      "paidAt": "2020-05-12"
+    },
+    {
+      "id": "dbdf974e-79ec-45b5-9448-e1eb2a1c6740",
+      "accountId": "98d5ccfe-38ad-4317-b3cb-6c44b19b03c9",
+      "currency": "EUR,",
+      "baseAmount": 14935,
+      "fees": 89617,
+      "dueDate": "2020-02-04",
+      "status": "OPEN"
+    },
+    {
+      "id": "bd18a74f-3599-4c6e-a8de-b031500771f1",
+      "accountId": "98d5ccfe-38ad-4317-b3cb-6c44b19b03c9",
+      "currency": "EUR,",
+      "baseAmount": 67221,
+      "fees": 24818,
+      "dueDate": "2020-03-01",
+      "status": "OPEN"
+    },
+    {
+      "id": "5358957c-3dda-4fda-ba9d-97e1ba1d46e6",
+      "accountId": "3cac4e31-4c3f-4416-bcf5-ee1d3af7b8fb",
+      "currency": "EUR,",
+      "baseAmount": 24534,
+      "fees": 55066,
+      "dueDate": "2020-01-18",
+      "status": "PAID",
+      "paidAt": "2020-03-21"
+    },
+    {
+      "id": "947eadfb-aac3-4cee-a52f-6c9dc76e78e7",
+      "accountId": "3cac4e31-4c3f-4416-bcf5-ee1d3af7b8fb",
+      "currency": "EUR,",
+      "baseAmount": 43272,
+      "fees": 63694,
+      "dueDate": "2020-01-24",
+      "status": "DELETED",
+      "deletedAt": "2020-04-10"
+    },
+    {
+      "id": "7df2102c-5f95-430f-b978-9edf5621997d",
+      "accountId": "5bf5a506-b121-4c1d-85f0-c9f68cefc0d1",
+      "currency": "EUR,",
+      "baseAmount": 79513,
+      "fees": 45252,
+      "dueDate": "2020-05-28",
+      "status": "DELETED",
+      "deletedAt": "2020-07-22"
+    },
+    {
+      "id": "ccbd375e-50ee-4b45-9b9b-215bc24d1a7a",
+      "accountId": "5bf5a506-b121-4c1d-85f0-c9f68cefc0d1",
+      "currency": "EUR,",
+      "baseAmount": 24331,
+      "fees": 66136,
+      "dueDate": "2020-01-20",
+      "status": "OPEN"
+    },
+    {
+      "id": "82e9bcfa-ff9e-47fa-aacd-6ed1a69ba5d5",
+      "accountId": "5bf5a506-b121-4c1d-85f0-c9f68cefc0d1",
+      "currency": "EUR,",
+      "baseAmount": 8278,
+      "fees": 32569,
+      "dueDate": "2020-03-06",
+      "status": "PAID",
+      "paidAt": "2020-04-06"
+    },
+    {
+      "id": "81534f5e-a2bd-4bf6-9452-bc35eed90445",
+      "accountId": "751c6699-1962-45b2-bedd-3dc710428fe2",
+      "currency": "EUR,",
+      "baseAmount": 83007,
+      "fees": 23631,
+      "dueDate": "2020-02-23",
+      "status": "DELETED",
+      "deletedAt": "2020-04-19"
+    },
+    {
+      "id": "08b4b344-e053-4dca-ac17-c3de354d5ced",
+      "accountId": "3a595697-238f-4727-8d1c-e5a1499d9df8",
+      "currency": "EUR,",
+      "baseAmount": 19713,
+      "fees": 62655,
+      "dueDate": "2020-03-09",
+      "status": "DELETED",
+      "deletedAt": "2020-04-24"
+    },
+    {
+      "id": "33c66552-eadf-4a4a-9c83-dfe58a703dfb",
+      "accountId": "c4bb9eea-5708-432e-b7a7-e8173ab81701",
+      "currency": "EUR,",
+      "baseAmount": 30982,
+      "fees": 21308,
+      "dueDate": "2020-01-20",
+      "status": "PAID",
+      "paidAt": "2020-03-11"
+    },
+    {
+      "id": "b6844c0c-9d24-4c47-bd54-f0d9d3926665",
+      "accountId": "c4bb9eea-5708-432e-b7a7-e8173ab81701",
+      "currency": "EUR,",
+      "baseAmount": 38957,
+      "fees": 39834,
+      "dueDate": "2020-05-14",
+      "status": "OPEN"
+    },
+    {
+      "id": "1b740623-c8a7-480c-9b77-fcba738ebc47",
+      "accountId": "c4bb9eea-5708-432e-b7a7-e8173ab81701",
+      "currency": "EUR,",
+      "baseAmount": 70334,
+      "fees": 73306,
+      "dueDate": "2020-01-04",
+      "status": "PAID",
+      "paidAt": "2020-02-02"
+    },
+    {
+      "id": "bcc3c15a-ea2d-41a7-b2a0-29e33fd168dd",
+      "accountId": "c4bb9eea-5708-432e-b7a7-e8173ab81701",
+      "currency": "EUR,",
+      "baseAmount": 74307,
+      "fees": 27018,
+      "dueDate": "2020-02-02",
+      "status": "OPEN"
+    },
+    {
+      "id": "64a66f4d-c7c3-48ce-90cc-f5b18841f64e",
+      "accountId": "c4bb9eea-5708-432e-b7a7-e8173ab81701",
+      "currency": "EUR,",
+      "baseAmount": 29233,
+      "fees": 86595,
+      "dueDate": "2020-01-04",
+      "status": "DELETED",
+      "deletedAt": "2020-03-03"
+    },
+    {
+      "id": "e112b9d5-f14b-4bba-a8dd-bffc241e505e",
+      "accountId": "c4bb9eea-5708-432e-b7a7-e8173ab81701",
+      "currency": "EUR,",
+      "baseAmount": 74269,
+      "fees": 72593,
+      "dueDate": "2020-04-25",
+      "status": "DELETED",
+      "deletedAt": "2020-07-17"
+    },
+    {
+      "id": "d13e639a-e958-413c-9c62-8b79b6fe8eea",
+      "accountId": "c4bb9eea-5708-432e-b7a7-e8173ab81701",
+      "currency": "EUR,",
+      "baseAmount": 61496,
+      "fees": 81766,
+      "dueDate": "2020-04-23",
+      "status": "PAID",
+      "paidAt": "2020-05-15"
+    },
+    {
+      "id": "2d64e2fa-197d-418f-bc25-39325562c472",
+      "accountId": "c4bb9eea-5708-432e-b7a7-e8173ab81701",
+      "currency": "EUR,",
+      "baseAmount": 74528,
+      "fees": 57526,
+      "dueDate": "2020-02-13",
+      "status": "OPEN"
+    }
+  ]
+}

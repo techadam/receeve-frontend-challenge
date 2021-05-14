@@ -1,0 +1,63 @@
+{
+  "name": "receeve-vue-challenge",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "challenge": "concurrently \"npm run serve\" \"npm run api\"",
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint",
+    "api": "json-server --watch api/db.json --port 9001"
+  },
+  "dependencies": {
+    "concurrently": "^6.0.0",
+    "core-js": "^3.6.5",
+    "express": "^4.17.1",
+    "json-server": "^0.16.3",
+    "node-sass": "^6.0.0",
+    "sass": "^1.32.13",
+    "sass-loader": "^10.1.1",
+    "tslib": "^2.2.0",
+    "vue": "^2.6.11",
+    "vue-class-component": "^7.2.6",
+    "vue-property-decorator": "^9.1.2",
+    "vue-router": "^3.5.1"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.11",
+    "@typescript-eslint/parser": "^4.15.2",
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-eslint": "~4.5.0",
+    "@vue/cli-plugin-typescript": "^4.5.11",
+    "@vue/cli-service": "~4.5.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.7.2",
+    "eslint-plugin-vue": "^6.2.2",
+    "typescript": "^4.2.2",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential",
+      "eslint:recommended"
+    ],
+    "parserOptions": {
+      "parser": "@typescript-eslint/parser",
+      "ecmaVersion": 2018,
+      "ecmaFeatures": {
+        "experimentalDecorators": true
+      },
+      "sourceType": "module"
+    },
+    "rules": {}
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
