@@ -20,7 +20,7 @@ const routes: Array<RouteConfig> = [
         name: 'Home',
         redirect: 'home',
         children: [
-            { path: 'homem', component: Home, name: 'Stats', meta: {auth: true} },
+            { path: 'home', component: Home, name: 'Stats', meta: {auth: true} },
             { path: 'accounts', component: Accounts, name: 'Accounts', meta: {auth: true} },
             { path: 'accounts/:id/', component: AccountInfo, name: 'Account Info', meta: {auth: true} }
         ] as Array<RouteConfig>
@@ -28,8 +28,10 @@ const routes: Array<RouteConfig> = [
     {
         path: '/login',
         name: 'Login',
-        component: Login
-    }
+        component: Login,
+        meta: {auth: false}
+    },
+    { path: "*", redirect: '/' } //handle 404
 ]
 
 
@@ -41,6 +43,22 @@ const router = new VueRouter({
     routes,
 })
 
+/**
+ * route guard, Prevent unauthorized accounts from accessing pages that need auth
+ */
+router.beforeEach((to, from, next) => {
+    const token = localStorage.token
+    
+    if(to.meta.auth === true && !token) {
+        return next('/login')
+    }
+
+    if(!to.meta.auth && token) {
+        return next('/home')
+    }
+
+    next()
+})
 
 
 export default router;

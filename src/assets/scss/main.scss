@@ -1,5 +1,93 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
 
+$bg-color: #F5F3F8;
+$main-color: #111E41;
+
 * {
     font-family: 'Poppins', sans-serif;
+}
+
+a, a:hover {
+    text-decoration: none;
+    color: #333;
+}
+
+input:focus, textarea:focus, select:focus{
+    outline: none;
+}
+
+.form-control, .btn {
+    height: 55px;
+    border-radius: 1.25rem;
+    padding: .5rem 1rem;
+    font-size: .9rem;
+}
+
+.btn {
+    height: 50px;
+}
+
+.btn-main, .btn-main:hover {
+    background: $main-color;
+    color: #fff;
+}
+
+.btn-block {
+    display: block;
+    width: 100%;
+}
+
+.form-control:focus {
+    outline: none !important;
+}
+
+label {
+    display: inline-block;
+    margin-bottom: .5rem;
+    font-weight: 600;
+}
+
+.account-page-wrapper {
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
+    background: $bg-color;
+
+    .account-container {
+        width: 480px;
+        background-color: #fff;
+        padding: 3rem;
+        box-shadow: 0 0 35px 0 rgb(154 161 171 / 15%);
+        border-radius: 5px;
+
+        .account-header {
+            margin-bottom: 2rem;
+            text-align: center;
+
+            small {
+                font-size: 1.1rem;
+                font-weight: 500;
+                color: #444;
+            }
+
+            & > div {
+                display: flex;
+                justify-content: center;
+                align-items: flex-end;
+                margin-bottom: .5rem;
+
+                img {
+                    margin-right: .3rem;
+                }
+
+                h3 {
+                    font-size: 1.3rem;
+                    font-weight: 600;
+                    color: $main-color;
+                }
+            }
+            
+
+        }
+    }
 }

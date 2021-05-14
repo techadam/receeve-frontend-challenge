@@ -10,6 +10,7 @@
     "api": "json-server --watch api/db.json --port 9001"
   },
   "dependencies": {
+    "axios": "^0.21.1",
     "concurrently": "^6.0.0",
     "core-js": "^3.6.5",
     "express": "^4.17.1",
@@ -21,7 +22,8 @@
     "vue": "^2.6.11",
     "vue-class-component": "^7.2.6",
     "vue-property-decorator": "^9.1.2",
-    "vue-router": "^3.5.1"
+    "vue-router": "^3.5.1",
+    "vue-toast-notification": "^0.6.1"
   },
   "devDependencies": {
     "@types/express": "^4.17.11",
