@@ -3,7 +3,7 @@
         <div class="account-container">
             <div class="account-header">
                 <div>
-                    <img src="@/assets/logo.png" alt="" width="45px">
+                    <img src="@/assets/logo.png" alt="LOGO" width="45px">
                     <h3>Receeve</h3>
                 </div>
                 <small>Sign into your account</small>

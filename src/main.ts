@@ -8,6 +8,16 @@ import VueToast from 'vue-toast-notification'
 import 'vue-toast-notification/dist/theme-sugar.css'
 Vue.use(VueToast)
 
+//Axios integration
+import axios from 'axios'
+import VueAxios from 'vue-axios'
+Vue.use(VueAxios, axios)
+Vue.axios.defaults.baseURL = `http://localhost:9001/`
+
+//Chartist integration
+Vue.use(require('vue-chartist'))
+
+
 Vue.config.productionTip = false
 
 new Vue({

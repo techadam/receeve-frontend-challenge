@@ -22,7 +22,7 @@ const routes: Array<RouteConfig> = [
         children: [
             { path: 'home', component: Home, name: 'Stats', meta: {auth: true} },
             { path: 'accounts', component: Accounts, name: 'Accounts', meta: {auth: true} },
-            { path: 'accounts/:id/', component: AccountInfo, name: 'Account Info', meta: {auth: true} }
+            { path: 'account-details/:id', component: AccountInfo, name: 'Account Info', meta: {auth: true} }
         ] as Array<RouteConfig>
     },
     {
