@@ -1,5 +1,6 @@
 <template>
     <div>
+        <input type="checkbox" id="menu-toggle">
         <div class="sidebar">
             <div class="sidebar-brand">
                 <img src="@/assets/logo.png" alt="LOGO" width="45px" />
@@ -20,10 +21,10 @@
                         </router-link>
                     </li>
                     <li>
-                        <router-link to="/">
+                        <a @click.stop="logout()" href="#">
                             <span class="las la-power-off"></span>
                             Signout
-                        </router-link>
+                        </a>
                     </li>
                 </ul>
             </div>
@@ -31,7 +32,7 @@
         <div class="main-content">
             <header>
                 <div>
-                    <label for="menu-toggle">
+                    <label class=".menu-toggler" for="menu-toggle">
                         <span class="las la-bars"></span>
                     </label>
                     <div class="search-wrapper">
@@ -61,6 +62,10 @@ import { Component, Vue } from 'vue-property-decorator'
 
 @Component
 export default class Dashboard extends Vue {
-    
+    //methods 
+    logout(): void {
+        localStorage.clear()
+        this.$router.push('/login')
+    }
 }
 </script>
